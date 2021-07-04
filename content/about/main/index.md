@@ -1,15 +1,13 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Gabriel Nakamura" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+  I obtained my master degree in Ecology and Conservation at Universidade Federal de Mato Grosso do Sul, in which I investigated organization patterns in stream fish communities. I moved from central to the south region of Brazil to realize my Ph.D in Ecology at Universidade Federal do Rio Grande do Sul. Under the supervision of Professor Leandro Duarte, and in a moment that I can not remember, I see myself investigating theoretical questions and developing numerical methods to capture patterns related to the diversity of ecological communities. Instead fishes as study model, I started to investigated virtual species generated in an environment much different from stream landscapes. Nowadays, my fieldwork consisted mainly to go inside the landscapes of computer cores, to investigate the effectiveness of  numerical methods and diversity index to capture patterns of ecological communities. Transform questions and concepts into numbers consist in my main interest. Despite present myself as a community ecologist, my interests also extends to macroevolutionary and data analysis.
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
