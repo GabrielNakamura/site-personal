@@ -1,14 +1,14 @@
 ---
-author: Alison Hill
+author: Gabriel Nakamura
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- course
+date: "2021-08-01"
+date_end: "2021-09-01"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+event: Análises de dados ecológicos
+event_url: ""
+excerpt: Curso de extensão promovido pelo Centro de Ecologia 
+    e Instituto de Biociências.
 featured: true
 layout: single
 links:
@@ -20,10 +20,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+location: Porto Alegre, Brasil
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: ""
+title: Análises de dados ecológicos
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+Informações sobre o curso de extensão em Análise de dados ecológicos serão postadas neste site. Mais informações em breve 
