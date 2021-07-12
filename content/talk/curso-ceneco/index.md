@@ -12,9 +12,13 @@ excerpt: Curso de extensão promovido pelo Centro de Ecologia
 featured: true
 layout: single
 links:
+- icon: door-open
+  icon_pack: fas
+  name: apostila
+  url: "https://gabrielnakamura.github.io/Curso_UFRGS_organizacao_de_dados/index.html"
 - icon: github
   icon_pack: fab
-  name: códigos e dados 
+  name: códigos
   url: https://github.com/GabrielNakamura
 location: Porto Alegre, Brasil
 show_post_time: false
