@@ -2,28 +2,24 @@
 author: Gabriel Nakamura
 categories:
 - course
-date: "2021-08-01"
-date_end: "2021-09-01"
+date: "2021-08-01T14:15:59-06:00"
+date_end: "2021-09-01T14:45:59-06:00"
 draft: false
-event: Análises de dados ecológicos
-event_url: ""
-excerpt: Curso de extensão promovido pelo Centro de Ecologia 
-    e Instituto de Biociências.
-featured: true
+excerpt: ""
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: apostila
+  name: apostila curso
   url: "https://gabrielnakamura.github.io/Curso_UFRGS_organizacao_de_dados/index.html"
 - icon: github
   icon_pack: fab
-  name: códigos
+  name: códigos 
   url: https://github.com/GabrielNakamura
 location: Porto Alegre, Brasil
 show_post_time: false
 subtitle: ""
-title: Análises de dados ecológicos
+title: Análise de dados ecológicos
 ---
 
-Informações sobre o curso de extensão em Análise de dados ecológicos serão postadas neste site. Mais informações em breve 
+Este curso será realizado no formato online durante o mês de Agosto e Setembro de 2021. Novas informações em breve
