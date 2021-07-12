@@ -14,12 +14,10 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: códigos e dados 
+  url: https://github.com/GabrielNakamura
 location: Porto Alegre, Brasil
 show_post_time: false
 subtitle: ""
