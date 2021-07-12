@@ -3,7 +3,7 @@ author: Gabriel Nakamura
 cascade:
   author: Gabriel Nakamura
   show_author_byline: true
-  show_comments: false
+  show_comments: true
   show_post_date: true
   show_post_time: true
   sidebar:
