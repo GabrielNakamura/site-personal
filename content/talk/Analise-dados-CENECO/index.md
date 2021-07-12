@@ -12,8 +12,6 @@ excerpt: Curso de extensão promovido pelo Centro de Ecologia
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
 - icon: github
   icon_pack: fab
   name: códigos e dados 
