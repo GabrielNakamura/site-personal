@@ -1,6 +1,6 @@
 ---
-title: "A multifaceted approach to analyzing taxonomic, functional, and phylogenetic β diversity"
-subtitle: "Nakamura G., Vicentin W., Súarez Y.R. and Duarte L.D.S."
+title: "Functional and phylogenetic dimensions are more important than the taxonomic dimension for capturing variation in stream fish communities"
+subtitle: "Nakamura G., Vicentin W. and Súarez Y.R."
 excerpt: ""
 date: 2021-05-24
 author: ""
@@ -8,11 +8,11 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Numerical methods
+- Fish ecology
 ---
 
 # Abstract
 
-Ecological literature offers a myriad of methods for quantifying β diversity. One such method is determining BDtotal (BD), which, unlike other methods, can be decomposed into meaningful components that indicate how unique a sampling unit is regarding its composition (local contribution) and how unique a species is regarding its occurrence in the community (species contribution). Despite this advantage, the original formulation of the BD metric only assesses taxonomic variation and neglects other important dimensions of biodiversity. We expanded the original formulation of BD to capture variation in the functional and phylogenetic dimensions of community data by computing two new metrics—BDFun and BDPhy—as well as their respective components that represent the local and species contribution. We tested the statistical performance of these new metrics for capturing variation in functional and phylogenetic composition through simulated communities and illustrated the potential use of these new metrics by analyzing β diversity of stream fish communities. Our results demonstrated that BDPhy and BDFun have acceptable type I error and great power to detect the effect of deep evolutionary relationships and attributes mediating patterns of β diversity. The empirical example illustrated how BDPhy and BDFun reveal complementary aspects of β diversity relative to the original BD metric. These new metrics can be used to identify local communities that are of conservation importance because they represent unique functional, phylogenetic, and taxonomic compositions. We conclude that BDPhy and BDFun are important tools for providing complementary information in the investigation of the structure of biological communities.
+Biodiversity is inherently multidimensional in nature, differences in evolutionary history, attributes of species, taxonomic composition constitutes a small fraction of whole variation present in this multidimensional space. Despite its multidimensional characteristic, biodiversity has been traditionally measured by assessing its dimensions separately through metrics of diversity. However, assessing multiple dimensions in a common framework opens the possibility of answering interesting questions that, until now, are poorly understood, such as: What dimensions capture most of the variation present in biodiversity among communities? We assess this question by extending the framework of Importance Values (IVs) to three dimensions of variation in biodiversity, functional, taxonomic and phylogenetic, and evaluate which of these captures the most variation in biodiversity space. To address this question we used data from stream fish communities of the Ivinhema River Basin in Brazil. We found that functional and phylogenetic dimensions are more important than the taxonomic dimension (represented by richness) in capturing variation in the biodiversity space formed by these three dimensions together. Furthermore, the IVs of these three dimensions were similar along an altitudinal gradient, indicating similar contributions by a given dimension in different environmental conditions. We highlight the importance of adopting a multidimensional approach when describing biodiversity, since richness (the proxy for taxonomic dimension), despite being the most commonly used, is an incomplete surrogate to capture the variation present in the biodiversity space of stream fish communities.
 
-[Read more ->](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3122)
+[Read more ->](https://onlinelibrary.wiley.com/doi/full/10.1111/aec.12529)
