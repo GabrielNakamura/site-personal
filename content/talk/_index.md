@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a list for talk, workshops and courses that I gave.
+  This is a list for talks, workshops and courses that I gave.
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
