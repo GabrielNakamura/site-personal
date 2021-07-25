@@ -11,15 +11,15 @@ links:
 - icon: door-open
   icon_pack: fas
   name: apostila curso
-  url: "https://gabrielnakamura.github.io/Curso_UFRGS_organizacao_de_dados/index.html"
+  url: ""
 - icon: github
   icon_pack: fab
   name: códigos 
-  url: https://github.com/GabrielNakamura/Curso_UFRGS_organizacao_de_dados
+  url: "https://github.com/GabrielNakamura"
 location: Porto Alegre, Brasil
 show_post_time: false
 subtitle: ""
-title: Organização de dados biológios e reprodutibilidade de projetos científicos
+title: Análises de dados em ecologia 
 ---
 
-Este curso foi realizado no formato online como disciplina especial do [PPG Ecologia UFRGS](https://www.ufrgs.br/ppgecologia/) durante o mês de maio de 2021.
+Este curso será realizado inteiramente online. Ele faz parte do projeto de extensão promovido pelo Centro de Ecologia da Universidade Federal do Rio Grande do Sul (CENECO). Para inscrição ou mais informações [PPG Ecologia UFRGS](https://www.ufrgs.br/ppgecologia/). A data provável de realização será segunda quinzena de Agosto e primeira quinzena de Setembro. Mais informações em breve
