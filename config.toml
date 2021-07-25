@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Hello, this is my personal website, here you will find a little about me."
   favicon = ""
   logo = ""
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["publication", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -109,7 +109,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/blog/"
+    url = "/publication/"
     weight = 2
   [[menu.header]]
     name = "R Projects"

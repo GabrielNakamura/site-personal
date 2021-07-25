@@ -1,127 +1,68 @@
 ---
-author: Eric Anderson
+author: Arthur V. Rodrigues and Gabriel Nakamura
 categories:
-- Theme Features
 - R
 - package
 date: "2019-07-03"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: ""
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: An R package to provide confidence levels in species occurrence records.
 tags:
-- hugo-site
-title: Tachyons for Style
+- Rpackage
+title: naturaList
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+# naturaList
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+<!-- badges: start -->
 
----
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/naturaList)](https://cran.r-project.org/package=naturaList)
 
-### Because Speed
+[![R-CMD-check](https://github.com/avrodrigues/naturaList/workflows/R-CMD-check/badge.svg)](https://github.com/avrodrigues/naturaList/actions)
 
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
+<!-- badges: end -->
 
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
+The goal of naturaList package is to provide tools for check identification reliability in species occurrence records data sets. The main functionality of naturaList package is provide an automated way to identify for the taxon of interest, which records has the most reliable level of classification, i.e, those records identified by specialists. In addition other characteristics of the records could be used to derive up to six levels of confidence.
 
-### BYOTachyons
+## Levels of confidence
 
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
+The package allows to classify the occurrence records in confidence levels through the function `classify_occ()`, that comprises the main function of naturaList package. The most reliable identification of a specimen is made by a specialist in the taxa. The other levels are derived from information contained in the occurrence dataset. The default order of confidence levels used in classification process are:
 
-### Taste the Rainbow
+-   Level 1 - species was identified by a specialist, if not;
+-   Level 2 - who identified the species was not a specialist name, if not;
+-   Level 3 - occurrence record has an image associated, if not;
+-   Level 4 - the specimen is preserved in a scientific collection, if not;
+-   Level 5 - the identification was done in filed observation, if not;
+-   Level 6 - no criteria was met.
 
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
+The user can alter this order, depending on his/her objectives, except for the Level 1 that is always a species determined by a specialist.
 
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
+## Installation
+
+You can install the last released version of naturaList from github using:
+
+``` {.r}
+install.packages("devtools")
+devtools::install_github("avrodrigues/naturaList")
 ```
 
-### Dig Deeper
+## Basics of naturaList package
 
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
+An extensive explanation of all the features of naturaList package is provided through [vignette articles](https://avrodrigues.github.io/naturaList/articles/natutaList_vignette.html). To conduct a basic classification process through `classify_occ` function the user must provide only two data frames. The first containing the occurrence records and the second with a list of specialists. The `classify_occ()` function add a new column in the occurrences dataset named `naturaList_levels`, which contains the classification.
 
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
+``` {.r}
+library(naturaList)
+data("A.setosa")
+data("speciaLists")
+
+occ.cl <- classify_occ(A.setosa, speciaLists)
 ```
 
-Once you uncomment the `custom-colors` import, it will look like this:
+Naturalist also offer an interactive module that allows to visualize occurrence in space, get information by pointing the occurrence of interest and manually edit occurrence records by point and click. This interactive module is activate through function `map_module`. An article explaining all features of `map_module` function can be accessed in this [article](https://avrodrigues.github.io/naturaList/articles/map_module_vignette.html)
 
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
+## Other resources
 
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
+Auxiliary functions that allows the user to access the effects of filtering procedures based on classification levels are `clean_eval` and `grid_filter` functions. A complete example of the usage of these functions can be found in this [article](https://avrodrigues.github.io/naturaList/articles/clean_eval_vignette.html).
 
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
+See [vignette](https://avrodrigues.github.io/naturaList/articles/natutaList_vignette.html) for all articles describing the functionalities of naturaList package.

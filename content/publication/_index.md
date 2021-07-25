@@ -8,9 +8,9 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /publication/
 description: "Here you will find my publications"
-layout: list-sidebar
+layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
