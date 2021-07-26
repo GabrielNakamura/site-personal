@@ -6,10 +6,10 @@ cascade:
   show_comments: true
   show_post_date: true
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /publication/
-description: "Here you will find my publications"
+description: "Here you will some peer-reviewed (and non peer-reviwed) toughts"
 layout: list
 show_author_byline: true
 show_post_date: true
