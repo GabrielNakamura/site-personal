@@ -2,7 +2,7 @@
 title: "FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes"
 subtitle: "Nakamura G., Richter A. and Soares B.E"
 excerpt: ""
-date: 2021-05-24
+date: 2021-07-01
 author: ""
 draft: false
 # layout options: single, single-sidebar

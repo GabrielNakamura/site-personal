@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello, I am a Brazilian ecologist interested in translate the nature of ecological phenomena in numbers. In this website you will find a little about me, my publications, my current research and some numerical tools useful for ecological analysis
+description: Hello, I am a brazilian ecologist interested in translate the nature of ecological phenomena in numbers. In this website you will find a little about me, my publications, my current research and some numerical tools useful for ecological analysis
 image_left: true
 images:
 - img/gabriel-avatar.jpg
