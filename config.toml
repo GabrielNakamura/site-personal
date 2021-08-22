@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Hello, this is my personal website, here you will find a little about me."
   favicon = ""
   logo = ""
-  mainSections = ["publication", "project", "talk", "CV"]
+  mainSections = ["publication", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "poppy"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "EB Garamond"
+  customheadingFontFamily = "Metropolis"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -126,7 +126,7 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks and Course Materials"
+    name = "Talks and Materials"
     title = "Talks"
     url = "/talk/"
     weight = 4
