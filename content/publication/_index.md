@@ -9,14 +9,14 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /publication/
-description: "Here you will some peer-reviewed (and non peer-reviwed) toughts"
+description: "Here you will find some peer-reviewed (and non peer-reviwed) toughts. Click [here](https://gabrielnakamura.github.io/CV-gabrielnakamura/) to see my complete CV"
 layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Gabriel Nakamura
-  description: "Here you can find all my publications"
+  description: "Here you can find all my publications. Click [here](https://gabrielnakamura.github.io/CV-gabrielnakamura/) to see my complete CV"
   show_sidebar_adunit: true
   text_link_label: ""
   text_link_url: /index.xml
