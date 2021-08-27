@@ -1,9 +1,9 @@
 ---
 title: "Functional and phylogenetic dimensions are more important than the taxonomic dimension for capturing variation in stream fish communities"
-subtitle: "Nakamura G., Vicentin W. and Súarez Y.R."
+subtitle: "Published in Austral Ecology - Top downloaded article (2018-2019)"
 excerpt: ""
 date: 2018-07-01
-author: ""
+author: "Nakamura G., Vicentin W. and Súarez Y.R."
 draft: false
 # layout options: single, single-sidebar
 layout: single

@@ -10,7 +10,11 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: presentation
+  name: Presentation slides
+  url: "https://gabrielnakamura.github.io/presentation-fishphylomaker/"
+- icon: github
+  icon_pack: fab
+  name: Source code
   url: "https://github.com/GabrielNakamura/presentation-fishphylomaker"
 location: Porto Alegre, Brasil
 show_post_time: false
@@ -18,5 +22,5 @@ subtitle: "A guide on how to use FishPhyloMaker package"
 title: FishPhyloMaker - an R package to generate phylogenies for ray-finned fishes
 ---
 
-This is a presentation in which I presented the functionalities of [FishPhyloMaker package](https://github.com/GabrielNakamura/FishPhyloMaker). This talk is in portuguese, but the slides are in english.
-Slides was made with [xaringan package](https://github.com/yihui/xaringan)
+This is a talk that I gave to [Phylogenetic and Functional Laboratory](https://www.ufrgs.br/leff/) to show how to use the package [FishPhyloMaker](https://github.com/GabrielNakamura/FishPhyloMaker). This talk was given in portuguese and the slides are in english.
+

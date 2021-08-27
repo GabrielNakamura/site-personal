@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /publication/
-description: "Here you will find some peer-reviewed (and non peer-reviwed) toughts. Click [here](https://gabrielnakamura.github.io/CV-gabrielnakamura/) to see my complete CV"
+description: "Here you will find some peer-reviewed (and non peer-reviewed) thoughts. Click [**here**](https://gabrielnakamura.github.io/CV-gabrielnakamura/) to see my complete CV"
 layout: list
 show_author_byline: true
 show_post_date: true

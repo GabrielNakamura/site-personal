@@ -1,6 +1,6 @@
 ---
 title: "Changes of Phylogenetic and Taxonomic Diversity of Odonata (Insecta) in Response to Land Use in Amazonia"
-subtitle: ""
+subtitle: "Published in Forests"
 excerpt: ""
 date: 2021-07-01
 author: "Carvalho F.G., Duarte L.D.S., Nakamura G., Seger G.D.S. and Juen L."

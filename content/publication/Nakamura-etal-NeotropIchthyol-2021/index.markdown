@@ -1,9 +1,9 @@
 ---
 title: "Taxonomic and phylogenetic beta diversity in headwater stream fish communities of the Paraná and Paraguai River basins"
-subtitle: "Nakamura G., Vicentin W. and Súarez Y.R."
+subtitle: "Published in Neotropical Ichthyology"
 excerpt: ""
 date: 2021-05-24
-author: ""
+author: "Nakamura G., Vicentin W. and Súarez Y.R."
 draft: false
 # layout options: single, single-sidebar
 layout: single

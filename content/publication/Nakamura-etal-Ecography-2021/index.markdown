@@ -1,9 +1,9 @@
 ---
 title: "Revisiting the dimensionality of biological diversity"
-subtitle: "Nakamura G., Gonçalves L.O., and Duarte L.D.S."
+subtitle: "Published in Ecogaphy"
 excerpt: ""
 date: 2020-05-24
-author: ""
+author: "Nakamura G., Gonçalves L.O., and Duarte L.D.S."
 draft: false
 # layout options: single, single-sidebar
 layout: single

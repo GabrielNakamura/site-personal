@@ -1,6 +1,6 @@
 ---
 title: "The hidden side of diversity: Effects of imperfect detection on multiple dimensions of biodiversity"
-subtitle: "Richter A., Nakamura G., Iserhard C. and Duarte L.D.S"
+subtitle: "Published in Ecology and Evolution"
 excerpt: ""
 date: 2021-08-01
 author: "Richter A., Nakamura G., Iserhard C. and Duarte L.D.S"

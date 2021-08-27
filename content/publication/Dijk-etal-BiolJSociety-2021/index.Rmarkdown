@@ -1,9 +1,9 @@
 ---
 title: "Imprints on tropical niche conservatism and historical dispersal in the radiation of Tyrannidae (Aves: Passeriformes)"
-subtitle: "Dijk A., Nakamura G., Rodrigues A.V., Maestri R. and Duarte L.D.S"
+subtitle: "Published in Biological Journal of the Linnean Society "
 excerpt: ""
 date: 2021-05-24
-author: ""
+author: "Dijk A., Nakamura G., Rodrigues A.V., Maestri R. and Duarte L.D.S"
 draft: false
 # layout options: single, single-sidebar
 layout: single
