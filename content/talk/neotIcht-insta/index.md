@@ -8,9 +8,9 @@ draft: false
 excerpt: ""
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: full presentation
+- icon: instagram
+  icon_pack: fab
+  name: Instagram video
   url: "https://www.instagram.com/p/CO7wMS4gKpG/"
 location: ""
 show_post_time: false
