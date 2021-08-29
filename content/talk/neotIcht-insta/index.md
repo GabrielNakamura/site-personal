@@ -1,7 +1,7 @@
 ---
 author: Gabriel Nakamura
 categories:
-- talk
+- outreach
 date: "2021-05-01T14:15:59-06:00"
 date_end: "2021-05-01T14:45:59-06:00"
 draft: false
