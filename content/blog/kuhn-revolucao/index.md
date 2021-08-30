@@ -5,7 +5,7 @@ categories:
 date: "2021-05-01T14:15:59-06:00"
 date_end: ""
 draft: false
-excerpt: ""
+excerpt: "A estrutura (psicológica) das revoluções científicas"
 layout: single
 location: Porto Alegre, Brasil
 show_post_time: false
