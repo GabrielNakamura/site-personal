@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-site on Gabriel Nakamura</title>
+    <link>/tags/hugo-site/</link>
+    <description>Recent content in hugo-site on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FishPhyloMaker</title>
+      <link>/project/fishphylomaker/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fishphylomaker/</guid>
+      <description>FishPhyloMaker    
+ 
+ 
+Making phylogenies for a local pool of fish species
+{FishPhyloMaker} is an R package that has two main functions, FishTaxaMaker and FishPhyloMaker. The first generate a data frame from fish species names provided by the user, checking the validity of these names and possible synonyms by using the information presented in Fishbase database through the package rfishbase . Species that were not found in Fishbase are printed in the command line, and the user must inform manually the Family and the Order of these species.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality</title>
+      <link>/project/dimensionality/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimensionality/</guid>
+      <description>Dimensionality R package   This package contains dimensionality functions presented in Nakamura et al 2019, beta-diversity measures presented in Nakamura et al. (2020), and some other function useful for quantify different dimensions of biodiversity.
+To install this package use:
+devtools::install_github(&amp;quot;GabrielNakamura/Dimensionality_package&amp;quot;) The Dimensionality package is under development.</description>
+    </item>
+    
+  </channel>
+</rss>

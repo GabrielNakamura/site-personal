@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community phylogenetics on Gabriel Nakamura</title>
+    <link>/categories/community-phylogenetics/</link>
+    <description>Recent content in Community phylogenetics on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/community-phylogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There and Back to The Present: An Evolutionary Tale on Biological Diversity</title>
+      <link>/publication/duarte-etal-mcfly-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/duarte-etal-mcfly-2021/</guid>
+      <description>Abstract   Ecologists often agree on the importance of macroevolution for niche-mediated distribution of biological diversity along environmental gradients. Yet, macroevolutionary diversification and dispersal in time and space generate uneven geographic distribution of phylogenetic pools, which affects the imprint let by macroevolution on local species pools. In this article we introduce an individual-based simulation approach coupled to Approximate Bayesian Computation (ABC) that allows to parameterize the adaptation rate of species’ niche positions along the evolution of a monophyletic lineage, and the intensity of dispersal limitation, associated with the distribution of biological diversity between assemblages potentially connected by dispersal (metacommunity).</description>
+    </item>
+    
+  </channel>
+</rss>

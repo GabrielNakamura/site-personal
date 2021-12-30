@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Nakamura</title>
+    <link>/</link>
+    <description>Recent content on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More than words</title>
+      <link>/blog/chronicles/01-foreinglife/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/chronicles/01-foreinglife/</guid>
+      <description>  A new driver on the city  </description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/01-github/</guid>
+      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/03-distill/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/03-blogdown/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker/</guid>
+      <description>Highlights     We provide the first automated procedure to check species names, construct phylogenetic trees and calculate Darwinian shortfalls for ray-finned fishes (Actinopterygii).
+  Our R package provides functions to assemble phylogenies through a fast, reliable, and reproducible method.
+  The package also provides an interactive procedure that gives more flexibility to the user when compared with other existing tools.
+  The package also includes a new method to compute Darwinian shortfalls for ray-finned fishes.</description>
+    </item>
+    
+    <item>
+      <title>The hidden side of diversity: Effects of imperfect detection on multiple dimensions of biodiversity</title>
+      <link>/publication/richter-etal-ecolevol-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/richter-etal-ecolevol-2021/</guid>
+      <description>Abstract   Studies on ecological communities often address patterns of species distribution and abundance, but few consider uncertainty in counts of both species and individuals when computing diversity measures. We evaluated the extent to which imperfect detection may influence patterns of taxonomic, functional, and phylogenetic diversity in ecological communities. We estimated the true abundance of fruit-feeding butterflies sampled in canopy and understory strata in a subtropical forest. We compared the diversity values calculated by observed and estimated abundance data through the hidden diversity framework.</description>
+    </item>
+    
+    <item>
+      <title>Changes of Phylogenetic and Taxonomic Diversity of Odonata (Insecta) in Response to Land Use in Amazonia</title>
+      <link>/publication/carvalho-etal-forests-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvalho-etal-forests-2021/</guid>
+      <description>Abstract   Changes in natural habitats for human use can alter the distribution of biodiversity, favoring species that are more tolerant to environmental disturbance. Usually, these species comprise clades of habitat generalists, which have biological mechanisms to colonize environments with different environmental conditions. However, such effects are still poorly understood for most biological groups, such as the Amazon odonates. Therefore, this study aims to evaluate the effects of land use along an environmental gradient on the phylogenetic and taxonomic diversity of Odonata in the Amazon.</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</guid>
+      <description>News   FishPhyloMaker now lives on CRAN, preprint and.. Ecological Informatics. Our article that describes the functioning of FishPhyloMaker R packages was just accepted for publication!
+Abstract   Phylogenies summarize evolutionary information that is essential in the investigation of ecological and evolutionary causes of diversity patterns. They allow investigating hypotheses from trait evolution to the relationship between evolutionary diversity and ecosystem functioning. However, obtaining a comprehensive phylogenetic hypothesis can be difficult for some groups, especially those with a high number of species, that is the case for fishes, particularly tropical ones.</description>
+    </item>
+    
+    <item>
+      <title>There and Back to The Present: An Evolutionary Tale on Biological Diversity</title>
+      <link>/publication/duarte-etal-mcfly-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/duarte-etal-mcfly-2021/</guid>
+      <description>Abstract   Ecologists often agree on the importance of macroevolution for niche-mediated distribution of biological diversity along environmental gradients. Yet, macroevolutionary diversification and dispersal in time and space generate uneven geographic distribution of phylogenetic pools, which affects the imprint let by macroevolution on local species pools. In this article we introduce an individual-based simulation approach coupled to Approximate Bayesian Computation (ABC) that allows to parameterize the adaptation rate of species’ niche positions along the evolution of a monophyletic lineage, and the intensity of dispersal limitation, associated with the distribution of biological diversity between assemblages potentially connected by dispersal (metacommunity).</description>
+    </item>
+    
+    <item>
+      <title>Imprints on tropical niche conservatism and historical dispersal in the radiation of Tyrannidae (Aves: Passeriformes)</title>
+      <link>/publication/dijk-etal-bioljsociety-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dijk-etal-bioljsociety-2021/</guid>
+      <description>Abstract   Speciation events occurring within biogeographic regions, and historical dispersal between regions influence diversity patterns observed in present-day assemblages. Such assessment has been often performed based on the phylogenetic structure of local assemblages. We underline some issues with that approach, and show that more reliable evaluation of historical events influencing present-day diversity can be achieved by combining phylogenetic diversity to an estimate of species assemblage age based on ancestral range estimation.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomic and phylogenetic beta diversity in headwater stream fish communities of the Paraná and Paraguai River basins</title>
+      <link>/publication/nakamura-etal-neotropichthyol-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-neotropichthyol-2021/</guid>
+      <description>Abstract   Patterns of species replacement and richness differences along environmental gradients or ecoregions shed light on different ecological and evolutionary mechanisms acting on community structure. Communities of aquatic ecosystems of different watersheds are supposed to host distinct species and lineages. Quantifying and understanding the degree to which these differences are affected by environmental and biogeographical factors remains an open question for these environments, particularly in the Neotropical region.</description>
+    </item>
+    
+    <item>
+      <title>A culpa não é do mosquito</title>
+      <link>/blog/visao-dialetica/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/blog/visao-dialetica/</guid>
+      <description>Verão, sinônimo de praia (não para quem mora a mais de 800 km dela), banho de rio, cachoeira, muito sorvete, muito tereré e&amp;hellip; combate!! Junto com toda felicidade que as coisas do verão nos proporcionam é nessa época que costumamos ouvir com bastante frequência, nos intervalos dos nossos programas favoritos da TV brasileira, a palavra combate!
+Quando o menino completa seus 18 anos as vozes na TV lhe convocam para participar do exército, combater os homens malvados, as moléstias da humanidade, as mazelas do mundo.</description>
+    </item>
+    
+    <item>
+      <title>Análises de dados em ecologia</title>
+      <link>/talk/ceneco-analisesecol/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/ceneco-analisesecol/</guid>
+      <description>Este curso será realizado inteiramente online. Ele faz parte do projeto de extensão promovido pelo Centro de Ecologia da Universidade Federal do Rio Grande do Sul (CENECO). Para inscrição ou mais informações PPG Ecologia UFRGS. A data provável de realização será segunda quinzena de Agosto e primeira quinzena de Setembro. Mais informações em breve</description>
+    </item>
+    
+    <item>
+      <title>Com quantas métricas se descreve uma comunidade?</title>
+      <link>/talk/talk_ufrj_dimensionality/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/talk_ufrj_dimensionality/</guid>
+      <description>Talk to UFRJ Ecology Graduate Program (portuguese).
+Resumo   O que é biodiversidade? A resposta para essa questão beira o segredo final da vida e do universo de um ecólogo e, infelizmente, já adianto que não é 42. Inúmeras representações numéricas da biodiversidade foram elaboradas, nos colocando no meio de uma verdadeira selva de métricas. Ao passo que essas várias alternativas possibilitam quantificar diferentes aspectos da diversidade biológica, elas colocam em apuros qualquer um que tenha a pretenção de encontrar uma resposta sintética e eficaz na representação da diversidade biológica através de métricas.</description>
+    </item>
+    
+    <item>
+      <title>Com que métrica eu vou? Quantificando a dimensionalidade para compreensão da diversidade biológica</title>
+      <link>/talk/talkusp/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/talkusp/</guid>
+      <description>This talk was given by me in Ecoencontros meeting, an initiative organized by PPG Ecologia USP (in portuguese).
+Resumo   O que é biodiversidade? A resposta para essa questão beira o segredo final da vida e do universo de um ecólogo e, infelizmente, já adianto que não é 42. Inúmeras representações numéricas da biodiversidade foram elaboradas, nos colocando no meio de uma verdadeira selva de métricas. Ao passo que essas várias alternativas possibilitam quantificar diferentes aspectos da diversidade biológica, elas colocam em apuros qualquer um que tenha a pretenção de encontrar uma resposta sintética e eficaz na representação da diversidade biológica através de métricas.</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker - an R package to generate phylogenies for ray-finned fishes</title>
+      <link>/talk/meetleff-fishphylo/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/meetleff-fishphylo/</guid>
+      <description>This is a talk that I gave to Phylogenetic and Functional Laboratory to show how to use the package FishPhyloMaker. This talk was given in portuguese and the slides are in english.</description>
+    </item>
+    
+    <item>
+      <title>Kuhn e a revolução psicológica</title>
+      <link>/blog/kuhn-revolucao/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/blog/kuhn-revolucao/</guid>
+      <description>Costumo dizer que nasci sem gps, e isso é genético, pois minha mãe também nasceu assim (apesar de não saber sobre o sistema de localização da minha vó). Para aprender a andar em um lugar novo preciso de muitos meses de prática, e na verdade o que eu acho que realmente acontece é mais uma decoreba dos lugares por onde passo que a criação da noção de localização no espaço.</description>
+    </item>
+    
+    <item>
+      <title>Organização de dados biológios e reprodutibilidade de projetos científicos</title>
+      <link>/talk/curso-reproduti/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/curso-reproduti/</guid>
+      <description>Este curso foi realizado no formato online como disciplina especial do PPG Ecologia UFRGS durante o mês de maio de 2021. Todo material utilizado durante o curso pode ser encontrado nesse site.
+Resolvi oferecer este curso por dois motivos, o primeiro por saber o quão penoso era (e ainda é em alguns momentos) organizar conjuntos de dados, análises, documentos e figuras em meu computador, de uma forma que, ao passar uma semana sem olhar para aquela pasta, eu não gastasse mais uma semana inteira tentando desvendar o que cada arquivo quer dizer.</description>
+    </item>
+    
+    <item>
+      <title>Quais fatores ambientais influenciam os peixes de riachos?</title>
+      <link>/talk/neoticht-insta/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/neoticht-insta/</guid>
+      <description>This is an outreach video that explains the main results and conclusions from a recent study that I published along with my co-authors (Yzel Súarez and Wagner Vicentin in Neotropical Ichthyology). The video is in portuguese, to read the article click here</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker</title>
+      <link>/project/fishphylomaker/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fishphylomaker/</guid>
+      <description>FishPhyloMaker    
+ 
+ 
+Making phylogenies for a local pool of fish species
+{FishPhyloMaker} is an R package that has two main functions, FishTaxaMaker and FishPhyloMaker. The first generate a data frame from fish species names provided by the user, checking the validity of these names and possible synonyms by using the information presented in Fishbase database through the package rfishbase . Species that were not found in Fishbase are printed in the command line, and the user must inform manually the Family and the Order of these species.</description>
+    </item>
+    
+    <item>
+      <title>Mcfly</title>
+      <link>/project/mcfly/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mcfly/</guid>
+      <description>mcfly    
+ 
+mcfly - Simulation framework to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution across environmental gradients
+Description     We introduce mcfly, an R package to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution of a given phylogenetic lineage across environmental gradients. For this, mcfly adopts the individual-based metacommunity simulation framework algorithm implemented in the package MCSim (See MCSim package for more information on individual based model) coupled to Approximate Bayesian Computation (ABC) to estimate the posterior distribution of (i) the adaptation rate parameter of Ornstein-Uhlenbeck (OU) evolutionary model and (ii) the slope the dispersal kernel, i.</description>
+    </item>
+    
+    <item>
+      <title>A multifaceted approach to analyzing taxonomic, functional, and phylogenetic β diversity</title>
+      <link>/publication/nakamura-etal-ecology-2021/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecology-2021/</guid>
+      <description>Abstract   Ecological literature offers a myriad of methods for quantifying β diversity. One such method is determining BDtotal (BD), which, unlike other methods, can be decomposed into meaningful components that indicate how unique a sampling unit is regarding its composition (local contribution) and how unique a species is regarding its occurrence in the community (species contribution). Despite this advantage, the original formulation of the BD metric only assesses taxonomic variation and neglects other important dimensions of biodiversity.</description>
+    </item>
+    
+    <item>
+      <title>Revisiting the dimensionality of biological diversity</title>
+      <link>/publication/nakamura-etal-ecography-2021/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecography-2021/</guid>
+      <description>Abstract   Biodiversity can be represented by different dimensions. While many diversity metrics try to capture the variation of these dimensions they also lead to a ‘fragmentation’ of the concept of biodiversity itself. Developing a unified measure that integrates all the dimensions of biodiversity is a theoretical solution for this problem, however, it remains operationally impossible. Alternatively, understanding which dimensions better represent the biodiversity of a set of communities can be a reliable way to integrate the different diversity metrics.</description>
+    </item>
+    
+    <item>
+      <title>naturaList</title>
+      <link>/project/naturalist/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/naturalist/</guid>
+      <description>naturaList    
+ 
+The goal of naturaList package is to provide tools for check identification reliability in species occurrence records data sets. The main functionality of naturaList package is provide an automated way to identify for the taxon of interest, which records has the most reliable level of classification, i.e, those records identified by specialists. In addition other characteristics of the records could be used to derive up to six levels of confidence.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality</title>
+      <link>/project/dimensionality/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimensionality/</guid>
+      <description>Dimensionality R package   This package contains dimensionality functions presented in Nakamura et al 2019, beta-diversity measures presented in Nakamura et al. (2020), and some other function useful for quantify different dimensions of biodiversity.
+To install this package use:
+devtools::install_github(&amp;quot;GabrielNakamura/Dimensionality_package&amp;quot;) The Dimensionality package is under development.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>/elements/</guid>
+      <description>Font Sizes   A A A A A A A A   6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Functional and phylogenetic dimensions are more important than the taxonomic dimension for capturing variation in stream fish communities</title>
+      <link>/publication/nakamura-etal-australecol-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-australecol-2018/</guid>
+      <description>Abstract   Biodiversity is inherently multidimensional in nature, differences in evolutionary history, attributes of species, taxonomic composition constitutes a small fraction of whole variation present in this multidimensional space. Despite its multidimensional characteristic, biodiversity has been traditionally measured by assessing its dimensions separately through metrics of diversity. However, assessing multiple dimensions in a common framework opens the possibility of answering interesting questions that, until now, are poorly understood, such as: What dimensions capture most of the variation present in biodiversity among communities?</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

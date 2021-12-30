@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R packages on Gabriel Nakamura</title>
+    <link>/categories/r-packages/</link>
+    <description>Recent content in R packages on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r-packages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker/</guid>
+      <description>Highlights     We provide the first automated procedure to check species names, construct phylogenetic trees and calculate Darwinian shortfalls for ray-finned fishes (Actinopterygii).
+  Our R package provides functions to assemble phylogenies through a fast, reliable, and reproducible method.
+  The package also provides an interactive procedure that gives more flexibility to the user when compared with other existing tools.
+  The package also includes a new method to compute Darwinian shortfalls for ray-finned fishes.</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</guid>
+      <description>News   FishPhyloMaker now lives on CRAN, preprint and.. Ecological Informatics. Our article that describes the functioning of FishPhyloMaker R packages was just accepted for publication!
+Abstract   Phylogenies summarize evolutionary information that is essential in the investigation of ecological and evolutionary causes of diversity patterns. They allow investigating hypotheses from trait evolution to the relationship between evolutionary diversity and ecosystem functioning. However, obtaining a comprehensive phylogenetic hypothesis can be difficult for some groups, especially those with a high number of species, that is the case for fishes, particularly tropical ones.</description>
+    </item>
+    
+  </channel>
+</rss>

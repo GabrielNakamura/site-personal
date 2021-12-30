@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A place where my R projects live on Gabriel Nakamura</title>
+    <link>/project/</link>
+    <description>Recent content in A place where my R projects live on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FishPhyloMaker</title>
+      <link>/project/fishphylomaker/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fishphylomaker/</guid>
+      <description>FishPhyloMaker    
+ 
+ 
+Making phylogenies for a local pool of fish species
+{FishPhyloMaker} is an R package that has two main functions, FishTaxaMaker and FishPhyloMaker. The first generate a data frame from fish species names provided by the user, checking the validity of these names and possible synonyms by using the information presented in Fishbase database through the package rfishbase . Species that were not found in Fishbase are printed in the command line, and the user must inform manually the Family and the Order of these species.</description>
+    </item>
+    
+    <item>
+      <title>Mcfly</title>
+      <link>/project/mcfly/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mcfly/</guid>
+      <description>mcfly    
+ 
+mcfly - Simulation framework to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution across environmental gradients
+Description     We introduce mcfly, an R package to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution of a given phylogenetic lineage across environmental gradients. For this, mcfly adopts the individual-based metacommunity simulation framework algorithm implemented in the package MCSim (See MCSim package for more information on individual based model) coupled to Approximate Bayesian Computation (ABC) to estimate the posterior distribution of (i) the adaptation rate parameter of Ornstein-Uhlenbeck (OU) evolutionary model and (ii) the slope the dispersal kernel, i.</description>
+    </item>
+    
+    <item>
+      <title>naturaList</title>
+      <link>/project/naturalist/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/naturalist/</guid>
+      <description>naturaList    
+ 
+The goal of naturaList package is to provide tools for check identification reliability in species occurrence records data sets. The main functionality of naturaList package is provide an automated way to identify for the taxon of interest, which records has the most reliable level of classification, i.e, those records identified by specialists. In addition other characteristics of the records could be used to derive up to six levels of confidence.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality</title>
+      <link>/project/dimensionality/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimensionality/</guid>
+      <description>Dimensionality R package   This package contains dimensionality functions presented in Nakamura et al 2019, beta-diversity measures presented in Nakamura et al. (2020), and some other function useful for quantify different dimensions of biodiversity.
+To install this package use:
+devtools::install_github(&amp;quot;GabrielNakamura/Dimensionality_package&amp;quot;) The Dimensionality package is under development.</description>
+    </item>
+    
+  </channel>
+</rss>

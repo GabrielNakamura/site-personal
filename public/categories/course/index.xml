@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course on Gabriel Nakamura</title>
+    <link>/categories/course/</link>
+    <description>Recent content in course on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 May 2021 14:15:59 -0600</lastBuildDate><atom:link href="/categories/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análises de dados em ecologia</title>
+      <link>/talk/ceneco-analisesecol/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/ceneco-analisesecol/</guid>
+      <description>Este curso será realizado inteiramente online. Ele faz parte do projeto de extensão promovido pelo Centro de Ecologia da Universidade Federal do Rio Grande do Sul (CENECO). Para inscrição ou mais informações PPG Ecologia UFRGS. A data provável de realização será segunda quinzena de Agosto e primeira quinzena de Setembro. Mais informações em breve</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker - an R package to generate phylogenies for ray-finned fishes</title>
+      <link>/talk/meetleff-fishphylo/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/meetleff-fishphylo/</guid>
+      <description>This is a talk that I gave to Phylogenetic and Functional Laboratory to show how to use the package FishPhyloMaker. This talk was given in portuguese and the slides are in english.</description>
+    </item>
+    
+    <item>
+      <title>Organização de dados biológios e reprodutibilidade de projetos científicos</title>
+      <link>/talk/curso-reproduti/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/curso-reproduti/</guid>
+      <description>Este curso foi realizado no formato online como disciplina especial do PPG Ecologia UFRGS durante o mês de maio de 2021. Todo material utilizado durante o curso pode ser encontrado nesse site.
+Resolvi oferecer este curso por dois motivos, o primeiro por saber o quão penoso era (e ainda é em alguns momentos) organizar conjuntos de dados, análises, documentos e figuras em meu computador, de uma forma que, ao passar uma semana sem olhar para aquela pasta, eu não gastasse mais uma semana inteira tentando desvendar o que cada arquivo quer dizer.</description>
+    </item>
+    
+  </channel>
+</rss>

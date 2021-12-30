@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.84.0" />
+<title>FishPhyloMaker | Gabriel Nakamura</title>
+
+
+<meta property="twitter:site" content="@gabrielnakamur4">
+<meta property="twitter:creator" content="@gabrielnakamur4">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="Making phylogenies for a local pool of fish species">
+
+
+<meta property="og:site_name" content="Gabriel Nakamura">
+<meta property="og:title" content="FishPhyloMaker | Gabriel Nakamura">
+<meta property="og:description" content="Making phylogenies for a local pool of fish species" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="/project/fishphylomaker/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="/project/fishphylomaker/featured-hex.png" >
+        <meta property="twitter:card" content="summary">
+        <meta name="twitter:image" content="/project/fishphylomaker/featured-hex.png" >
+    
+    
+  <meta itemprop="name" content="FishPhyloMaker">
+<meta itemprop="description" content="FishPhyloMaker    
+ 
+ 
+Making phylogenies for a local pool of fish species
+{FishPhyloMaker} is an R package that has two main functions, FishTaxaMaker and FishPhyloMaker. The first generate a data frame from fish species names provided by the user, checking the validity of these names and possible synonyms by using the information presented in Fishbase database through the package rfishbase . Species that were not found in Fishbase are printed in the command line, and the user must inform manually the Family and the Order of these species."><meta itemprop="datePublished" content="2021-01-07T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2021-01-07T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="1578"><meta itemprop="image" content="/project/fishphylomaker/featured-hex.png">
+<meta itemprop="keywords" content="hugo-site," />
+  
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="" type="image/x-icon">
+  <link rel="icon" href="" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.e31deff0c1db2d37e518569c30a7fa24b61c221142eb269f8390930cc9d62774.css" integrity="sha256-4x3v8MHbLTflGFacMKf6JLYcIhFC6yafg5CTDMnWJ3Q=" media="screen">
+  
+  
+  <script src="/panelset.min.d74e921a1b9af2d938fdff19e433ba539cdb202961eddae2356a54199f0653ec.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.38a0323c5b0bbb611c4874ba2d8fdaba57d20cc2b0d704b30250c235ba8b6d49.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container single">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="/" title="Home">
+      <span class="f4 fw7">Gabriel Nakamura</span>
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About">About</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/publication/" title="Publications">Publications</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/project/" title="ProjectR">R Projects</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/blog/" title="blog">Blog</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Talks and Materials</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">FishPhyloMaker</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Making phylogenies for a local pool of fish species</h4>
+        <p class="f6 measure lh-copy mv1">By Gabriel Nakamura, Aline Richter and Bruno E. Soares in <a href="/categories/r">R</a>  <a href="/categories/package">package</a> </p>
+        <p class="f7 db mv0 ttu">January 7, 2021</p>
+
+      
+      <div class="ph0 pt5">
+        
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://gabrielnakamura.github.io/FishPhyloMaker/" target="_blank" rel="noopener"><i class="fas fa-door-open fa-lg fa-fw mr2"></i>website</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://github.com/GabrielNakamura/FishPhyloMaker" target="_blank" rel="noopener"><i class="fab fa-github fa-lg fa-fw mr2"></i>code</a>
+
+
+      </div>
+      
+
+      </header>
+      <section class="post-body pt5 pb4">
+        
+
+
+
+<h1 id="fishphylomaker">FishPhyloMaker
+  <a href="#fishphylomaker"></a>
+</h1>
+<p>
+<a href="https://cran.r-project.org/package=FishPhyloMaker" target="_blank" rel="noopener"><img src="https://www.r-pkg.org/badges/version/FishPhyloMaker" alt="CRAN_Status_Badge"></a></p>
+<p>
+<a href="https://zenodo.org/badge/latestdoi/336899540" target="_blank" rel="noopener"><img src="https://zenodo.org/badge/336899540.svg" alt="DOI"></a></p>
+<p>
+<a href="https://choosealicense.com/licenses/mit/" target="_blank" rel="noopener"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"></a></p>
+<p><strong>Making phylogenies for a local pool of fish species</strong></p>
+<p><code>{FishPhyloMaker}</code> is an R package that has two main functions, <code>FishTaxaMaker</code> and <code>FishPhyloMaker</code>. The first generate a data frame from fish species names provided by the user, checking the validity of these names and possible synonyms by using the information presented in 
+<a href="http://www.fishbase.org/search.php" target="_blank" rel="noopener">Fishbase database</a> through the package 
+<a href="https://cran.r-project.org/web/packages/rfishbase/rfishbase.pdf" target="_blank" rel="noopener">rfishbase</a> . Species that were not found in Fishbase are printed in the command line, and the user must inform manually the Family and the Order of these species. The output of <code>FishTaxaMaker()</code> function is a list containing the following objects:</p>
+<ul>
+<li><strong>All_info_fishbase</strong>: A data frame containing the taxonomic classification of valid species accordingy to Fishbase;</li>
+<li><strong>Taxon_data_FishPhyloMaker</strong>: A data frame with three colum containing the valid name of species
+(s), its family (f) and order (o). This data frame can be used in <code>FishPhyloMaker()</code> to generate the phylogeny;</li>
+<li><strong>Duplicated_species</strong>: A data frame showing the names of species that the user provided and the        names of species valid accordingly fishbase. This data frame contains only those species that         represents duplicated species</li>
+<li><strong>Species_not_in_Fishbase</strong>: A character vectorn containing the names of species that was not find      in Fishbase with a valid name
+data frame object containing three columns with the name of species (s), the Family (f) and the Order (o) of all species provided by the user.</li>
+</ul>
+<p>Besides to help checking the validity of the names of species, its synonyms and duplicated species, the data frame returned by <code>FishTaxaMaker()</code> in <strong>Taxon_data_FishPhyoMaker</strong> are formatted to be directly used in the core function <code>FishPhyloMaker()</code>. This function will use the information of the taxonomic hierarchy contained in the data frame returned from <code>FishTaxaMaker()</code>, joint with the information present in the the 
+<a href="https://fishtreeoflife.org/" target="_blank" rel="noopener">fishtree of life project</a> to assemble the phylogenetic tree with the species informed by the user.</p>
+<p><code>FishPhyloMaker()</code> works in a sequential way, with 4 levels of insertions. First the function finds for all species of local data that are already presented in the mega-tree. If any species remains for insertion, then the function finds for congeneric species that are already present in tree. If any, the congeneric species are added to the tree as a sister species of the respective genus by dividing the branch of congeneric species by two and inserting the new species. If there are more than one congeneric species in the tree the species will be added as a polytomy at the node that corresponds to the most recent ancestral (MRCA) that links all congeneric species. This round of insertion is what we call <strong>Congeneric insertion</strong>.</p>
+<p>After congeneric species insertions, if there are species that already must be inserted in the tree, <code>FishPhyloMaker()</code> finds for the all the genus in the tree that are of the same family of the species that must be inserted. This comprises the <strong>Family level</strong> round of insertions. In this round, the user has three different insertion options:</p>
+<ol>
+<li>
+<p><strong>Insert the species near to a specific genus/family</strong>: To insert the species near to a specific genus/family,
+the user must type the name of the genus (or family) at which the species must be inserted;</p>
+</li>
+<li>
+<p><strong>Insert the species between two genus/families</strong>: To insert the species between two different genus/families, the user
+must type the names of the two genus/families separated by a blank space;</p>
+</li>
+<li>
+<p><strong>Insert at the root of the family/order</strong>: To insert the species at the node that corresponds to the family (or order), the user must type the name of the family.</p>
+</li>
+</ol>
+<p>The user chooses one of these three options through an interactive procedure, in which all the genus of the same family of the species that must be inserted, and are already present in tree, are printed in the console. The user must type the name of a given genus for the first option, the name of two genus separated by a blank space for the second option and the name of the family for the third option.</p>
+<p>After all species with representative Genus of their families be inserted, if any species remains to be inserted in the tree, the function found for all families present in the tree that are of the same Order of the species that must be inserted, and an interactive procedure similar of that described previously for the family level is performed, but, instead to choose among Genus, one of the three options must be chosen by typing the families inside a given Order (or the name of the Order in the case to insert at the node that unites all families inside a given Order). This level of insertion is called <strong>Order insertion</strong> level. If any species remains to be inserted after these three levels, the function will inform the user that the species was not inserted in the tree. We adopt this decision since the insertions beyond Order will carry a lot of uncertainty regarding the phylogenetic position of this species.</p>
+<p>Another point that is important to mention is that at each level of insertion a check procedure is performed to check if any genus of the species that must be inserted was included in the tree. If this occur the species will be automatically inserted following the same procedure described in the Congeneric level of insertions, and the species added in this level we call <strong>Congeneric family level</strong></p>
+<p>The last step consists in <strong>subset the tree</strong> to maintain only those species of interesting of the user. This is done by dropping all species that are not present at the names informed by the user. This returns a dated phylogenetic tree, and, optionally, a data frame with the same format of that the user obtained with <code>FishTaxaMaker()</code>, but with a new column indicating at which level the species was added in the procedure with the following code.</p>
+<ul>
+<li><strong>Present_in_tree</strong> the species was already present in the original tree;</li>
+<li><strong>Congeneric_insertion</strong> species inserted as a sister species of the same genus presented in the tree;</li>
+<li><strong>Congeneric_insertion_roundFamily</strong> species inserted as a sister species of the same genus presented in the tree, but that were added after a species of local pool of the same genus be inserted in the tree;</li>
+<li><strong>Family_insertion</strong> if not found any congeneric species, the species will be inserted near to, or between genus of the same family presented in the tree. The user can also insert the species in the base of the family;</li>
+<li><strong>Order_insertion</strong> if not found any genus of the same family of the species that must be inserted, the species will be inserted near to a given family, between two families or at the node that corresponds to the Order of this species;</li>
+<li><strong>Not_inserted</strong> if species was not inserted in any of the previous steps, it will not be inserted in the final tree;</li>
+</ul>
+<p>To obtain a phylogeny of fish species, the user must provide to <code>FishPhyloMaker()</code> function a data frame that present the following format:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">s</th>
+<th style="text-align:center">f</th>
+<th style="text-align:center">o</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">G_sp1</td>
+<td style="text-align:center">Family1</td>
+<td style="text-align:center">Order1</td>
+</tr>
+<tr>
+<td style="text-align:center">G_sp2</td>
+<td style="text-align:center">Family2</td>
+<td style="text-align:center">Order2</td>
+</tr>
+<tr>
+<td style="text-align:center">G_sp3</td>
+<td style="text-align:center">Family3</td>
+<td style="text-align:center">Order3</td>
+</tr>
+</tbody>
+</table>
+<p>This table can be done manually or by passing to <code>FishTaxaMaker()</code> a list of species or a community data matrix with species names in columns following the format <em>Genus_species</em>.</p>
+<p>To install the package the user must type:</p>
+<pre><code class="language-{.r}" data-lang="{.r}">devtools::install_github(&quot;GabrielNakamura/FishPhyloMaker&quot;, ref = &quot;main&quot;, build_vignettes = TRUE)
+</code></pre><p>To run an example the user can load a data set contained in the package:</p>
+<pre><code class="language-{.r}" data-lang="{.r}">library(FishPhyloMaker)
+data(neotropical_comm)
+data_comm &lt;- neotropical_comm[, -c(1, 2)] # removing latitude and longitude
+</code></pre><p>This data set comprises the occurrence of 59 fish species that occur in headwater streams of
+Parana and Paraguai river Basins, in Brazil. The coordinates of these streams are presented in the two first columns of this data set.</p>
+<p>First the user must obtain the data necessary to enter in <code>FishPhyloMaker</code>  using <code>FishTaxaMaker</code></p>
+<pre><code class="language-{.r}" data-lang="{.r}">
+taxon_data &lt;- FishTaxaMaker(data_comm, allow.manual.insert = TRUE)
+Characidae
+Characiformes
+Characidae
+Characiformes
+Characidae
+Characiformes
+Loricariidae
+Siluriformes
+Characidae
+Characiformes
+Cichlidae
+Cichliformes
+Crenuchidae
+Characiformes
+Gymnotidae
+Gymnotiformes
+Loricariidae
+Siluriformes
+Loricariidae
+Siluriformes
+Loricariidae
+Siluriformes
+Loricariidae
+Siluriformes
+Heptapteridae
+Siluriformes
+Characidae
+Characiformes
+Loricariidae
+Siluriformes
+Characidae
+Characiformes
+</code></pre><p><code>FishTaxaMaker</code> finds in 
+<a href="http://www.fishbase.org/search.php" target="_blank" rel="noopener">Fishbase</a> for the family and the order of species provided in data argument. If any species was not find in Fishbase, the user will be asked to type the Family and the Order of this species manually. In the case of this data set, species <em>Curculionichthys inseperatus</em> was not found in Fishbase, so we inform manually the family (Loricariidae) and order (Siluriformes) of this species. This function can also be usefull to check possible mispelling errors in the name of species.</p>
+<p>Finally run <code>FishPhyloMaker</code></p>
+<pre><code class="language-{.r}" data-lang="{.r}">res_phylo &lt;- FishPhyloMaker(data = taxon_data$Taxon_data_FishPhyloMaker,
+                            insert.base.node = TRUE, 
+                            return.insertions = TRUE, 
+                            progress.bar = TRUE)
+</code></pre><p>The species are inserted in a sequential procedure. Those species with any congeneric representatives will be printed in the console jointly with a list of Genus in which the user must choose. The user have three options:</p>
+<ol>
+<li>Insert <strong>near to a specific Genus</strong>, then the user must type the name of this Genus;</li>
+<li>Insert <strong>between to Genus</strong>, then the user must type the names of these two Genus separated by a white space;</li>
+<li>Insert <strong>at the node that correspond to the Family</strong> of the species being inserted. Then, the user must type the name of the Family.</li>
+</ol>
+<p>The output has two objects, a phylogenetic treefor the local pool of fish species, and can be directly plot</p>
+<pre><code class="language-{.r}" data-lang="{.r}">plot(res_phylo$Phylogeny, cex = 0.7)
+</code></pre><p>And a data frame indicating at which level the species of local pool was inserted (one of the six categories detailed above).</p>
+<pre><code class="language-{.r}" data-lang="{.r}">res_phylo$Insertions_data
+</code></pre><p>For more details and updates in package functioning see and specific articles showing
+how to use <code>{FishPhyloMaker}</code> package see 
+<a href="https://gabrielnakamura.github.io/FishPhyloMaker/" target="_blank" rel="noopener">FishPhyloMaker web page</a></p>
+
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">January 7, 2021</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">8 minute read, 1578 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="/categories/r">R</a>  <a href="/categories/package">package</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Tags:</dt>
+    <dd class="fw5 ml0"> <a href="/tags/hugo-site">hugo-site</a> </dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+    <dd class="fw5 ml0"><a href="/project/dimensionality/">Dimensionality</a></dd>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="/project/mcfly/">Mcfly &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2021 RStudio, Anywhere
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-social-links db dtc-l v-mid w-100 w-33-l tc pv2 pv0-l mv0">
+      <div class="social-icon-links" aria-hidden="true">
+  
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://github.com/GabrielNakamura" title="github" target="_blank" rel="noopener">
+      <i class="fab fa-github fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://twitter.com/gabrielnakamur4" title="twitter" target="_blank" rel="noopener">
+      <i class="fab fa-twitter fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://orcid.org/0000-0002-5144-5312" title="orcid" target="_blank" rel="noopener">
+      <i class="ai ai-orcid fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="http://lattes.cnpq.br/2456515948049565" title="lattes" target="_blank" rel="noopener">
+      <i class="ai ai-lattes fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://scholar.google.co.uk/citations?user=lc94VyYAAAAJ&amp;hl=en" title="google-scholar" target="_blank" rel="noopener">
+      <i class="ai ai-google-scholar fa-lg fa-fw"></i>
+    </a>
+  
+</div>
+
+    </div>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
+      
+      <a class="dib pv1 ph2 link" href="/contributors/" title="Contributors">Contributors</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+    </body>
+</html>

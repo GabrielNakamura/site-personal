@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical methods on Gabriel Nakamura</title>
+    <link>/tags/numerical-methods/</link>
+    <description>Recent content in Numerical methods on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mcfly</title>
+      <link>/project/mcfly/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mcfly/</guid>
+      <description>mcfly    
+ 
+mcfly - Simulation framework to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution across environmental gradients
+Description     We introduce mcfly, an R package to estimate the influence of niche adaptation rate and dispersal limitation on species diversity distribution of a given phylogenetic lineage across environmental gradients. For this, mcfly adopts the individual-based metacommunity simulation framework algorithm implemented in the package MCSim (See MCSim package for more information on individual based model) coupled to Approximate Bayesian Computation (ABC) to estimate the posterior distribution of (i) the adaptation rate parameter of Ornstein-Uhlenbeck (OU) evolutionary model and (ii) the slope the dispersal kernel, i.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Gabriel Nakamura</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fish ecology</title>
+      <link>/categories/fish-ecology/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fish-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic methods</title>
+      <link>/categories/phylogenetic-methods/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/phylogenetic-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R packages</title>
+      <link>/categories/r-packages/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r-packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical methods</title>
+      <link>/categories/numerical-methods/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/numerical-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community ecology</title>
+      <link>/categories/community-ecology/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/community-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community phylogenetics</title>
+      <link>/categories/community-phylogenetics/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/community-phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecoevolutionary dynamics</title>
+      <link>/categories/ecoevolutionary-dynamics/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ecoevolutionary-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chronicles</title>
+      <link>/categories/chronicles/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/chronicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course</title>
+      <link>/categories/course/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>/categories/outreach/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>/categories/talk/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>/categories/package/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

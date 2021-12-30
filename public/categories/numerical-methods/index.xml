@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical methods on Gabriel Nakamura</title>
+    <link>/categories/numerical-methods/</link>
+    <description>Recent content in Numerical methods on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The hidden side of diversity: Effects of imperfect detection on multiple dimensions of biodiversity</title>
+      <link>/publication/richter-etal-ecolevol-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/richter-etal-ecolevol-2021/</guid>
+      <description>Abstract   Studies on ecological communities often address patterns of species distribution and abundance, but few consider uncertainty in counts of both species and individuals when computing diversity measures. We evaluated the extent to which imperfect detection may influence patterns of taxonomic, functional, and phylogenetic diversity in ecological communities. We estimated the true abundance of fruit-feeding butterflies sampled in canopy and understory strata in a subtropical forest. We compared the diversity values calculated by observed and estimated abundance data through the hidden diversity framework.</description>
+    </item>
+    
+    <item>
+      <title>Imprints on tropical niche conservatism and historical dispersal in the radiation of Tyrannidae (Aves: Passeriformes)</title>
+      <link>/publication/dijk-etal-bioljsociety-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dijk-etal-bioljsociety-2021/</guid>
+      <description>Abstract   Speciation events occurring within biogeographic regions, and historical dispersal between regions influence diversity patterns observed in present-day assemblages. Such assessment has been often performed based on the phylogenetic structure of local assemblages. We underline some issues with that approach, and show that more reliable evaluation of historical events influencing present-day diversity can be achieved by combining phylogenetic diversity to an estimate of species assemblage age based on ancestral range estimation.</description>
+    </item>
+    
+    <item>
+      <title>A multifaceted approach to analyzing taxonomic, functional, and phylogenetic β diversity</title>
+      <link>/publication/nakamura-etal-ecology-2021/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecology-2021/</guid>
+      <description>Abstract   Ecological literature offers a myriad of methods for quantifying β diversity. One such method is determining BDtotal (BD), which, unlike other methods, can be decomposed into meaningful components that indicate how unique a sampling unit is regarding its composition (local contribution) and how unique a species is regarding its occurrence in the community (species contribution). Despite this advantage, the original formulation of the BD metric only assesses taxonomic variation and neglects other important dimensions of biodiversity.</description>
+    </item>
+    
+    <item>
+      <title>Revisiting the dimensionality of biological diversity</title>
+      <link>/publication/nakamura-etal-ecography-2021/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecography-2021/</guid>
+      <description>Abstract   Biodiversity can be represented by different dimensions. While many diversity metrics try to capture the variation of these dimensions they also lead to a ‘fragmentation’ of the concept of biodiversity itself. Developing a unified measure that integrates all the dimensions of biodiversity is a theoretical solution for this problem, however, it remains operationally impossible. Alternatively, understanding which dimensions better represent the biodiversity of a set of communities can be a reliable way to integrate the different diversity metrics.</description>
+    </item>
+    
+  </channel>
+</rss>

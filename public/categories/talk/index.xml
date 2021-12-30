@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk on Gabriel Nakamura</title>
+    <link>/categories/talk/</link>
+    <description>Recent content in talk on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 May 2021 14:15:59 -0600</lastBuildDate><atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Com quantas métricas se descreve uma comunidade?</title>
+      <link>/talk/talk_ufrj_dimensionality/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/talk_ufrj_dimensionality/</guid>
+      <description>Talk to UFRJ Ecology Graduate Program (portuguese).
+Resumo   O que é biodiversidade? A resposta para essa questão beira o segredo final da vida e do universo de um ecólogo e, infelizmente, já adianto que não é 42. Inúmeras representações numéricas da biodiversidade foram elaboradas, nos colocando no meio de uma verdadeira selva de métricas. Ao passo que essas várias alternativas possibilitam quantificar diferentes aspectos da diversidade biológica, elas colocam em apuros qualquer um que tenha a pretenção de encontrar uma resposta sintética e eficaz na representação da diversidade biológica através de métricas.</description>
+    </item>
+    
+    <item>
+      <title>Com que métrica eu vou? Quantificando a dimensionalidade para compreensão da diversidade biológica</title>
+      <link>/talk/talkusp/</link>
+      <pubDate>Sat, 01 May 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/talkusp/</guid>
+      <description>This talk was given by me in Ecoencontros meeting, an initiative organized by PPG Ecologia USP (in portuguese).
+Resumo   O que é biodiversidade? A resposta para essa questão beira o segredo final da vida e do universo de um ecólogo e, infelizmente, já adianto que não é 42. Inúmeras representações numéricas da biodiversidade foram elaboradas, nos colocando no meio de uma verdadeira selva de métricas. Ao passo que essas várias alternativas possibilitam quantificar diferentes aspectos da diversidade biológica, elas colocam em apuros qualquer um que tenha a pretenção de encontrar uma resposta sintética e eficaz na representação da diversidade biológica através de métricas.</description>
+    </item>
+    
+  </channel>
+</rss>

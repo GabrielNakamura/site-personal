@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpackage on Gabriel Nakamura</title>
+    <link>/tags/rpackage/</link>
+    <description>Recent content in Rpackage on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rpackage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>naturaList</title>
+      <link>/project/naturalist/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/naturalist/</guid>
+      <description>naturaList    
+ 
+The goal of naturaList package is to provide tools for check identification reliability in species occurrence records data sets. The main functionality of naturaList package is provide an automated way to identify for the taxon of interest, which records has the most reliable level of classification, i.e, those records identified by specialists. In addition other characteristics of the records could be used to derive up to six levels of confidence.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Nakamura</title>
+    <link>/publication/</link>
+    <description>Recent content on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker/</guid>
+      <description>Highlights     We provide the first automated procedure to check species names, construct phylogenetic trees and calculate Darwinian shortfalls for ray-finned fishes (Actinopterygii).
+  Our R package provides functions to assemble phylogenies through a fast, reliable, and reproducible method.
+  The package also provides an interactive procedure that gives more flexibility to the user when compared with other existing tools.
+  The package also includes a new method to compute Darwinian shortfalls for ray-finned fishes.</description>
+    </item>
+    
+    <item>
+      <title>The hidden side of diversity: Effects of imperfect detection on multiple dimensions of biodiversity</title>
+      <link>/publication/richter-etal-ecolevol-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/richter-etal-ecolevol-2021/</guid>
+      <description>Abstract   Studies on ecological communities often address patterns of species distribution and abundance, but few consider uncertainty in counts of both species and individuals when computing diversity measures. We evaluated the extent to which imperfect detection may influence patterns of taxonomic, functional, and phylogenetic diversity in ecological communities. We estimated the true abundance of fruit-feeding butterflies sampled in canopy and understory strata in a subtropical forest. We compared the diversity values calculated by observed and estimated abundance data through the hidden diversity framework.</description>
+    </item>
+    
+    <item>
+      <title>Changes of Phylogenetic and Taxonomic Diversity of Odonata (Insecta) in Response to Land Use in Amazonia</title>
+      <link>/publication/carvalho-etal-forests-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvalho-etal-forests-2021/</guid>
+      <description>Abstract   Changes in natural habitats for human use can alter the distribution of biodiversity, favoring species that are more tolerant to environmental disturbance. Usually, these species comprise clades of habitat generalists, which have biological mechanisms to colonize environments with different environmental conditions. However, such effects are still poorly understood for most biological groups, such as the Amazon odonates. Therefore, this study aims to evaluate the effects of land use along an environmental gradient on the phylogenetic and taxonomic diversity of Odonata in the Amazon.</description>
+    </item>
+    
+    <item>
+      <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
+      <link>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-fishphylomaker_ecolinformatics/</guid>
+      <description>News   FishPhyloMaker now lives on CRAN, preprint and.. Ecological Informatics. Our article that describes the functioning of FishPhyloMaker R packages was just accepted for publication!
+Abstract   Phylogenies summarize evolutionary information that is essential in the investigation of ecological and evolutionary causes of diversity patterns. They allow investigating hypotheses from trait evolution to the relationship between evolutionary diversity and ecosystem functioning. However, obtaining a comprehensive phylogenetic hypothesis can be difficult for some groups, especially those with a high number of species, that is the case for fishes, particularly tropical ones.</description>
+    </item>
+    
+    <item>
+      <title>There and Back to The Present: An Evolutionary Tale on Biological Diversity</title>
+      <link>/publication/duarte-etal-mcfly-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/duarte-etal-mcfly-2021/</guid>
+      <description>Abstract   Ecologists often agree on the importance of macroevolution for niche-mediated distribution of biological diversity along environmental gradients. Yet, macroevolutionary diversification and dispersal in time and space generate uneven geographic distribution of phylogenetic pools, which affects the imprint let by macroevolution on local species pools. In this article we introduce an individual-based simulation approach coupled to Approximate Bayesian Computation (ABC) that allows to parameterize the adaptation rate of species’ niche positions along the evolution of a monophyletic lineage, and the intensity of dispersal limitation, associated with the distribution of biological diversity between assemblages potentially connected by dispersal (metacommunity).</description>
+    </item>
+    
+    <item>
+      <title>Imprints on tropical niche conservatism and historical dispersal in the radiation of Tyrannidae (Aves: Passeriformes)</title>
+      <link>/publication/dijk-etal-bioljsociety-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dijk-etal-bioljsociety-2021/</guid>
+      <description>Abstract   Speciation events occurring within biogeographic regions, and historical dispersal between regions influence diversity patterns observed in present-day assemblages. Such assessment has been often performed based on the phylogenetic structure of local assemblages. We underline some issues with that approach, and show that more reliable evaluation of historical events influencing present-day diversity can be achieved by combining phylogenetic diversity to an estimate of species assemblage age based on ancestral range estimation.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomic and phylogenetic beta diversity in headwater stream fish communities of the Paraná and Paraguai River basins</title>
+      <link>/publication/nakamura-etal-neotropichthyol-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-neotropichthyol-2021/</guid>
+      <description>Abstract   Patterns of species replacement and richness differences along environmental gradients or ecoregions shed light on different ecological and evolutionary mechanisms acting on community structure. Communities of aquatic ecosystems of different watersheds are supposed to host distinct species and lineages. Quantifying and understanding the degree to which these differences are affected by environmental and biogeographical factors remains an open question for these environments, particularly in the Neotropical region.</description>
+    </item>
+    
+    <item>
+      <title>A multifaceted approach to analyzing taxonomic, functional, and phylogenetic β diversity</title>
+      <link>/publication/nakamura-etal-ecology-2021/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecology-2021/</guid>
+      <description>Abstract   Ecological literature offers a myriad of methods for quantifying β diversity. One such method is determining BDtotal (BD), which, unlike other methods, can be decomposed into meaningful components that indicate how unique a sampling unit is regarding its composition (local contribution) and how unique a species is regarding its occurrence in the community (species contribution). Despite this advantage, the original formulation of the BD metric only assesses taxonomic variation and neglects other important dimensions of biodiversity.</description>
+    </item>
+    
+    <item>
+      <title>Revisiting the dimensionality of biological diversity</title>
+      <link>/publication/nakamura-etal-ecography-2021/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-ecography-2021/</guid>
+      <description>Abstract   Biodiversity can be represented by different dimensions. While many diversity metrics try to capture the variation of these dimensions they also lead to a ‘fragmentation’ of the concept of biodiversity itself. Developing a unified measure that integrates all the dimensions of biodiversity is a theoretical solution for this problem, however, it remains operationally impossible. Alternatively, understanding which dimensions better represent the biodiversity of a set of communities can be a reliable way to integrate the different diversity metrics.</description>
+    </item>
+    
+    <item>
+      <title>Functional and phylogenetic dimensions are more important than the taxonomic dimension for capturing variation in stream fish communities</title>
+      <link>/publication/nakamura-etal-australecol-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura-etal-australecol-2018/</guid>
+      <description>Abstract   Biodiversity is inherently multidimensional in nature, differences in evolutionary history, attributes of species, taxonomic composition constitutes a small fraction of whole variation present in this multidimensional space. Despite its multidimensional characteristic, biodiversity has been traditionally measured by assessing its dimensions separately through metrics of diversity. However, assessing multiple dimensions in a common framework opens the possibility of answering interesting questions that, until now, are poorly understood, such as: What dimensions capture most of the variation present in biodiversity among communities?</description>
+    </item>
+    
+  </channel>
+</rss>
