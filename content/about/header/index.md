@@ -7,7 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Hi :hand:, my name is Gabriel Nakamura, I am a brazilian ecologist trying to 
-    understand the historical and contemporary mechanisms influencing on the 
-    distribution of species. For this rely on the development of numerical methods in
-    community ecology and macroevolution :computer:
+ Hi :hand: my name is Gabriel Nakamura. I am a Brazilian ecologist trying to understand the historical and contemporary mechanisms influencing the distribution of species. For this, I rely on the development of numerical methods in community ecology and macroevolution :computer:
