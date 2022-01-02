@@ -11,7 +11,7 @@ tags:
   - foreing life
 ---
 
-## Departure
+### Departure
 
 About three weeks ago I made one of the toughest decisions of my life, which was moving to another country. 
     I landed in the United States to start a new job. This represented to me an opportunity that I haven't had
@@ -23,7 +23,7 @@ I was (and still am) very excited to start this new job, but at the same time an
 Despite English figure as the dominant language of
     science, my vocabulary is limited to the academic universe, but our lives go much beyond the walls of laboratories and offices of Universities. Therefore, even used to a foreign language, and even with a proficiency test certifying that I have enough skills to live in an English-speaking country, dealing with the daily activities requires a huge amount of energy, with lots of lost words during conversations. After twenty-two days this figured out in the top spot of the most difficult things to deal with as an immigrant.
 
-## The Arrival
+### The Arrival
 
 > *“The grammar of each language is not merely a reproducing instrument for voicing ideas but rather is itself the shaper of ideas.”*
 
@@ -46,7 +46,7 @@ The movie was a recommendation of my ex-girlfriend, that received the recommenda
     
 <img src="/Users/gabrielnakamura/OneDrive/site_personal/site-personal/content/blog/chronicles/01-foreingLife/Arrival.jpeg" width="400" />
     
-## The new driver
+### The new driver
 
 Even beware of the idea that language also affects how we see the world around us has a little to no scientific basis, from an individual point of view I 
     must agree that language is not just about words chained in a sequence that makes sense. My early impression of living in a country with a
