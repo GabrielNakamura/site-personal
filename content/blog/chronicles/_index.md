@@ -33,9 +33,9 @@ cascade:
     text_series_label: "In this series" 
     text_contents_label: "On this page" 
   tags:
-  - product-management
+  - personal views
   categories:
-  - rmarkdown
+  - foreing language
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
