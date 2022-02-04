@@ -11,7 +11,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Link to access the presentation
-  url: "gabrielnakamura.github.io/presentation-tamucc-darulab/#1"
+  url: "https://gabrielnakamura.github.io/presentation-TAMUCC-DaruLab/#1"
 
 show_post_time: false
 subtitle: ""
