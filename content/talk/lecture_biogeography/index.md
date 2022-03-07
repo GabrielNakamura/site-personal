@@ -1,14 +1,14 @@
 ---
-  author: Gabriel Nakamura
+author: Gabriel Nakamura
 categories:
-  - lectures
+- lectures
 date: "2022-03-07T14:15:59-06:00"
 date_end: "2022-03-07T14:45:59-06:00"
 draft: false
 excerpt: ""
 layout: single
 links:
-  - icon: door-open
+- icon: door-open
 icon_pack: fas
 name: Link to access the presentation
 url: "https://gabrielnakamura.github.io/lecture_Biogeography_tamucc/#1"
@@ -18,9 +18,9 @@ subtitle: ""
 title: Invited lecture to Biogeography class in Texas A&M University
 ---
   
-  ## Bridging the gap among community phylogenetics, biogeography and macroevolution: moving from patterns to process
+## Bridging the gap among community phylogenetics, biogeography and macroevolution: moving from patterns to process
   
-  ### Outline
+### Outline
   
   Detect patterns of biodiversity distribution essential in Community
 ecology and Biogeography studies, since patterns allows test hypotheses
