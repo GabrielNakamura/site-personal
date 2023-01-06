@@ -8,7 +8,7 @@ images:
 - img/gabriel-avatar.jpg
 show_action_link: true
 show_social_links: true
-subtitle: "Ph.D in Ecology | Postdoctoral Research Associate at Texas A&M University"
+subtitle: "Ph.D in Ecology"
 
 text_align_left: false
 title: Gabriel Nakamura
