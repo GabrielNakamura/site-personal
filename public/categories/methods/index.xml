@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods on Gabriel Nakamura</title>
+    <link>/categories/methods/</link>
+    <description>Recent content in Methods on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herodotools: An R package to integrate macroevolution, community ecology,and biogeography</title>
+      <link>/publication/nakamura_etal_herodotools_preprint/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura_etal_herodotools_preprint/</guid>
+      <description>Abstract   Historical processes like speciation, extinction and historical dispersal are the ultimate factors generating and maintaining biodiversity. Therefore, understanding how these factors affect the distribution of biodiversity is of great importance. To do so, it is necessary to integrate information from ancestral state reconstructions and current species distribution data and traits. Studies that integrated both information proved effective in unveiling questions in the intersection of macroecology, macroevolution, and community ecology.</description>
+    </item>
+    
+  </channel>
+</rss>

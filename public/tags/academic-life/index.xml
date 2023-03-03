@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic life on Gabriel Nakamura</title>
+    <link>/tags/academic-life/</link>
+    <description>Recent content in Academic life on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/academic-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algumas reflexões sobre concursos acadêmicos e pesquisa</title>
+      <link>/blog/academia_concurso_br/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/academia_concurso_br/</guid>
+      <description>Dias atrás me deparei com uma postagem de um colega de academia na rede do passarinho azul. Ele relatava sua insatisfação com o sistema de seleção de professores para carreira acadêmica através do atual formato dos concursos públicos, que basicamente é uma processo que consiste em três etapas: prova escrita (eliminatória), prova didática (eliminatória) e prova de títulos (classificatória). De maneira muito simplificada estas três etapas definem o objetivo profissional final de muitos doutores no Brasil.</description>
+    </item>
+    
+  </channel>
+</rss>

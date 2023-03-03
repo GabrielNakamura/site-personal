@@ -6,14 +6,32 @@
     <description>Recent content on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algumas reflexões sobre concursos acadêmicos e pesquisa</title>
+      <link>/blog/academia_concurso_br/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/academia_concurso_br/</guid>
+      <description>Dias atrás me deparei com uma postagem de um colega de academia na rede do passarinho azul. Ele relatava sua insatisfação com o sistema de seleção de professores para carreira acadêmica através do atual formato dos concursos públicos, que basicamente é uma processo que consiste em três etapas: prova escrita (eliminatória), prova didática (eliminatória) e prova de títulos (classificatória). De maneira muito simplificada estas três etapas definem o objetivo profissional final de muitos doutores no Brasil.</description>
+    </item>
+    
+    <item>
+      <title>Ecological Society of America meeting - 2022</title>
+      <link>/blog/chronicles/esa2022/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/chronicles/esa2022/</guid>
+      <description>Personal views on my first Ecological Society of America meeting Last week (14-19th August), I attended my first ever Ecological Society of America (ESA) meeting. If you are an ecologist/evolutionary biologist, the ESA meeting is one of those “must-attend” events. It is the venue where researchers share their studies and is also an opportunity to connect with people from different places (unfortunately, not all places, but I will talk more about it later).</description>
+    </item>
+    
     <item>
       <title>More than words</title>
       <link>/blog/chronicles/01-foreinglife/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/chronicles/01-foreinglife/</guid>
-      <description>  A new driver on the city  </description>
+      <description>Departure Three weeks ago from the moment that I’m writing this chronicle I made one of the toughest decisions of my life, which was moving to another country. I landed in the United States to start a new job. This represented to me an opportunity that I haven’t had during my Ph.D. in Brazil due to the cut of budgets promoted by the Federal government. After almost 10 presentation letters, I was called for an interview at Texas A&amp;amp;M University-Corpus Christi.</description>
     </item>
     
     <item>
@@ -90,6 +108,71 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Herodotools</title>
+      <link>/project/herodotools/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/herodotools/</guid>
+      <description>Herodotools   Herodotools    
+ 
+General overview   {Herodotools} is an R package that allows to perform analysis to investigate the effects of historical processes, specifically diversification and historical dispersal, in determine the biodiversity structure of assemblages and biogeographical regions. This is achieved by integrating tools of macroevolutionary dynamics (e.g. ancestral area reconstruction, trait reconstruction) with metrics commonly used in community phylogenetics, and also by providing new metrics that integrate the macroevolutionary dynamics in assemblage or biogeographical scales.</description>
+    </item>
+    
+    <item>
+      <title>Herodotools: An R package to integrate macroevolution, community ecology,and biogeography</title>
+      <link>/publication/nakamura_etal_herodotools_preprint/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura_etal_herodotools_preprint/</guid>
+      <description>Abstract   Historical processes like speciation, extinction and historical dispersal are the ultimate factors generating and maintaining biodiversity. Therefore, understanding how these factors affect the distribution of biodiversity is of great importance. To do so, it is necessary to integrate information from ancestral state reconstructions and current species distribution data and traits. Studies that integrated both information proved effective in unveiling questions in the intersection of macroecology, macroevolution, and community ecology.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Darwinian shortfalls in the Amazonian Odonata</title>
+      <link>/publication/carvalho-etal-forests-2022/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvalho-etal-forests-2022/</guid>
+      <description>Abstract   Among the oldest winged insects, odonates are a monophyletic order that have become important models for ecological studies because of their highly diverse reproductive behaviors and their role as top predators and bioindicators. However, knowledge on evolutionary relationships within the order is still scarce compared to other taxa, and this situation is even more complicated in areas with high biodiversity, such as in the Amazon. Here, we sought to identify knowledge gaps on Amazonian Odonata regarding three main aspects: (i) how the inclusion of Amazonian taxa affects our interpretation of the evolutionary relationships of Zygoptera and Anisoptera; (ii) the position of Amazonian taxa in the existing supertree of the Odonata; (iii) dating evolutionary divergence between nodes using fossil records; (iv) assessing whether more species-rich basins (e.</description>
+    </item>
+    
+    <item>
+      <title>Species misidentification affects biodiversity metrics: Dealing with this issue using the new R package naturaList</title>
+      <link>/publication/rodrigues-etal-ecolinfo-2022/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rodrigues-etal-ecolinfo-2022/</guid>
+      <description>Abstract   Biodiversity databases are increasingly available and have fostered accelerated advances in many disciplines within ecology and evolution. However, the quality of the evidence generated depends critically on the quality of the input data, and species misidentifications are present in virtually any occurrence dataset. Yet, the lack of automatized tools makes the assessment of the quality of species identification in big datasets time-consuming, which often induces researchers to assume that all species are reliably identified.</description>
+    </item>
+    
+    <item>
+      <title>Invited Lecture to Biogeography class in Texas A&amp;M University</title>
+      <link>/talk/lecture_biogeography/</link>
+      <pubDate>Mon, 07 Mar 2022 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/lecture_biogeography/</guid>
+      <description>Bridging the gap among community phylogenetics, biogeography and macroevolution: moving from patterns to process     Outline     Detect patterns of biodiversity distribution essential in Community ecology and Biogeography studies, since patterns allows test hypotheses and search for the processes generating those patterns. However, this pattern-oriented approach have not shown adequate to understand the underlying processes in a given assemblage, since similar patterns can be generated by totally different evolutionary processes, and the contrary, very different patterns could be generated by the same ecological/macroevolutionary process.</description>
+    </item>
+    
+    <item>
+      <title>My introductory presentation to Daru Lab!</title>
+      <link>/talk/presentationdarulab/</link>
+      <pubDate>Wed, 02 Feb 2022 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/presentationdarulab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview that I gave to Radio UFRGS about FishPhyloMaker package</title>
+      <link>/talk/interview_ufrgs/</link>
+      <pubDate>Sat, 29 Jan 2022 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/interview_ufrgs/</guid>
+      <description>This is an interview that I conceded to Ciencia 1080, a website dedicated to promote the dissemination of scientific discoveries produced by researchers associated to the Federal University of Rio Grande do Sul (Brazil). In this interview I explained a little bit about our most recent article published in Ecological Informatics, that resulted in a software called FishPhyloMaker, as the name indicates, the main aim is to facilitate the achievement of phylogenetic hypothesis for fish species (among other functions).</description>
     </item>
     
     <item>

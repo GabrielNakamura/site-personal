@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/academia_concurso_br/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/chronicles/esa2022/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/chronicles/01-foreinglife/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,29 +38,104 @@
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/academia/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/academic-life/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/language/</loc>
-    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/chronicles/</loc>
-    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/herodotools/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/nakamura_etal_herodotools_preprint/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/historical-biogeography/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo-site/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/methods/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/package/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r-packages/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/biogeography/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/carvalho-etal-forests-2022/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/macroecology/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/bioinformatics/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/rodrigues-etal-ecolinfo-2022/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/lecture_biogeography/</loc>
+    <lastmod>2022-03-07T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>/categories/outreach/</loc>
+    <lastmod>2022-03-07T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-03-07T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>/talk/presentationdarulab/</loc>
+    <lastmod>2022-02-02T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>/talk/interview_ufrgs/</loc>
+    <lastmod>2022-01-29T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>/categories/foreing-language/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/foreing-life/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/meetings/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/second-language/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/series/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <loc>/series/views-from-the-north/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <loc>/blog/chronicles/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/fish-ecology/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -63,9 +144,6 @@
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/phylogenetic-methods/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r-packages/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/numerical-methods/</loc>
@@ -125,40 +203,22 @@
     <loc>/talk/curso-reproduti/</loc>
     <lastmod>2021-05-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>/categories/outreach/</loc>
-    <lastmod>2021-05-01T14:15:59-06:00</lastmod>
-  </url><url>
     <loc>/talk/neoticht-insta/</loc>
     <lastmod>2021-05-01T14:15:59-06:00</lastmod>
   </url><url>
     <loc>/categories/talk/</loc>
     <lastmod>2021-05-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2021-05-01T14:15:59-06:00</lastmod>
-  </url><url>
     <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/fishphylomaker/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/mcfly/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/numerical-methods/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/nakamura-etal-ecology-2021/</loc>
@@ -194,6 +254,6 @@
   </url><url>
     <loc>/license/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>/tags/personal-views/</loc>
   </url>
 </urlset>

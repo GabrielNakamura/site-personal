@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>language</title>
-      <link>/tags/language/</link>
+      <title>Academia</title>
+      <link>/tags/academia/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic life</title>
+      <link>/tags/academic-life/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-site</title>
+      <link>/tags/hugo-site/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hugo-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foreing life</title>
+      <link>/tags/foreing-life/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/language/</guid>
+      <guid>/tags/foreing-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetings</title>
+      <link>/tags/meetings/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meetings/</guid>
       <description></description>
     </item>
     
@@ -22,15 +58,6 @@
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/second-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo-site</title>
-      <link>/tags/hugo-site/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hugo-site/</guid>
       <description></description>
     </item>
     
@@ -49,6 +76,15 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rpackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal views</title>
+      <link>/tags/personal-views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal-views/</guid>
       <description></description>
     </item>
     

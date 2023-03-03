@@ -6,7 +6,34 @@
     <description>Recent content on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herodotools: An R package to integrate macroevolution, community ecology,and biogeography</title>
+      <link>/publication/nakamura_etal_herodotools_preprint/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nakamura_etal_herodotools_preprint/</guid>
+      <description>Abstract   Historical processes like speciation, extinction and historical dispersal are the ultimate factors generating and maintaining biodiversity. Therefore, understanding how these factors affect the distribution of biodiversity is of great importance. To do so, it is necessary to integrate information from ancestral state reconstructions and current species distribution data and traits. Studies that integrated both information proved effective in unveiling questions in the intersection of macroecology, macroevolution, and community ecology.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Darwinian shortfalls in the Amazonian Odonata</title>
+      <link>/publication/carvalho-etal-forests-2022/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvalho-etal-forests-2022/</guid>
+      <description>Abstract   Among the oldest winged insects, odonates are a monophyletic order that have become important models for ecological studies because of their highly diverse reproductive behaviors and their role as top predators and bioindicators. However, knowledge on evolutionary relationships within the order is still scarce compared to other taxa, and this situation is even more complicated in areas with high biodiversity, such as in the Amazon. Here, we sought to identify knowledge gaps on Amazonian Odonata regarding three main aspects: (i) how the inclusion of Amazonian taxa affects our interpretation of the evolutionary relationships of Zygoptera and Anisoptera; (ii) the position of Amazonian taxa in the existing supertree of the Odonata; (iii) dating evolutionary divergence between nodes using fossil records; (iv) assessing whether more species-rich basins (e.</description>
+    </item>
+    
+    <item>
+      <title>Species misidentification affects biodiversity metrics: Dealing with this issue using the new R package naturaList</title>
+      <link>/publication/rodrigues-etal-ecolinfo-2022/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rodrigues-etal-ecolinfo-2022/</guid>
+      <description>Abstract   Biodiversity databases are increasingly available and have fostered accelerated advances in many disciplines within ecology and evolution. However, the quality of the evidence generated depends critically on the quality of the input data, and species misidentifications are present in virtually any occurrence dataset. Yet, the lack of automatized tools makes the assessment of the quality of species identification in big datasets time-consuming, which often induces researchers to assume that all species are reliably identified.</description>
+    </item>
+    
     <item>
       <title>FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</title>
       <link>/publication/nakamura-etal-fishphylomaker/</link>

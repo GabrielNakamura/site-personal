@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.84.0" />
-<title>There and Back to The Present: An Evolutionary Tale on Biological Diversity | Gabriel Nakamura</title>
+<title>Herodotools: An R package to integrate macroevolution, community ecology,and biogeography | Gabriel Nakamura</title>
 
 
 <meta property="twitter:site" content="@gabrielnakamur4">
@@ -28,25 +28,25 @@
 
 
 <meta property="og:site_name" content="Gabriel Nakamura">
-<meta property="og:title" content="There and Back to The Present: An Evolutionary Tale on Biological Diversity | Gabriel Nakamura">
+<meta property="og:title" content="Herodotools: An R package to integrate macroevolution, community ecology,and biogeography | Gabriel Nakamura">
 <meta property="og:description" content="Preprint" />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="/publication/duarte-etal-mcfly-2021/" />
+<meta property="og:url" content="/publication/nakamura_etal_herodotools_preprint/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="/publication/duarte-etal-mcfly-2021/featured.jpg" >
+        <meta property="og:image" content="/publication/nakamura_etal_herodotools_preprint/featured.png" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="/publication/duarte-etal-mcfly-2021/featured.jpg" >
+        <meta name="twitter:image" content="/publication/nakamura_etal_herodotools_preprint/featured.png" >
     
     
-  <meta itemprop="name" content="There and Back to The Present: An Evolutionary Tale on Biological Diversity">
-<meta itemprop="description" content="Abstract   Ecologists often agree on the importance of macroevolution for niche-mediated distribution of biological diversity along environmental gradients. Yet, macroevolutionary diversification and dispersal in time and space generate uneven geographic distribution of phylogenetic pools, which affects the imprint let by macroevolution on local species pools. In this article we introduce an individual-based simulation approach coupled to Approximate Bayesian Computation (ABC) that allows to parameterize the adaptation rate of species’ niche positions along the evolution of a monophyletic lineage, and the intensity of dispersal limitation, associated with the distribution of biological diversity between assemblages potentially connected by dispersal (metacommunity)."><meta itemprop="datePublished" content="2021-07-01T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2021-07-01T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="204"><meta itemprop="image" content="/publication/duarte-etal-mcfly-2021/featured.jpg">
+  <meta itemprop="name" content="Herodotools: An R package to integrate macroevolution, community ecology,and biogeography">
+<meta itemprop="description" content="Abstract   Historical processes like speciation, extinction and historical dispersal are the ultimate factors generating and maintaining biodiversity. Therefore, understanding how these factors affect the distribution of biodiversity is of great importance. To do so, it is necessary to integrate information from ancestral state reconstructions and current species distribution data and traits. Studies that integrated both information proved effective in unveiling questions in the intersection of macroecology, macroevolution, and community ecology."><meta itemprop="datePublished" content="2022-07-05T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2022-07-05T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="206"><meta itemprop="image" content="/publication/nakamura_etal_herodotools_preprint/featured.png">
 <meta itemprop="keywords" content="" />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -105,10 +105,10 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">There and Back to The Present: An Evolutionary Tale on Biological Diversity</h1>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Herodotools: An R package to integrate macroevolution, community ecology,and biogeography</h1>
         <h4 class="f4 mt0 mb4 lh-title measure">Preprint</h4>
-        <p class="f6 measure lh-copy mv1">By Duarte L.D.S., Nakamura G., Debastiani V., Maestri R., Pereira M.J.R., Cianciaruso M.V. and Diniz-Filho J.A.D. in <a href="/categories/ecoevolutionary-dynamics">Ecoevolutionary dynamics</a>  <a href="/categories/community-ecology">Community ecology</a>  <a href="/categories/community-phylogenetics">Community phylogenetics</a> </p>
-        <p class="f7 db mv0 ttu">July 1, 2021</p>
+        <p class="f6 measure lh-copy mv1">By Nakamura G., Rodrigues A.V., Luza A.L., Maestri R., Debastiani, V.J. and Duarte L.D.S. in <a href="/categories/historical-biogeography">Historical biogeography</a>  <a href="/categories/methods">Methods</a>  <a href="/categories/r-packages">R packages</a> </p>
+        <p class="f7 db mv0 ttu">July 5, 2022</p>
 
       
 
@@ -121,24 +121,24 @@
 <h1 id="abstract">Abstract
   <a href="#abstract"></a>
 </h1>
-<p>Ecologists often agree on the importance of macroevolution for niche-mediated distribution of biological diversity along environmental gradients. Yet, macroevolutionary diversification and dispersal in time and space generate uneven geographic distribution of phylogenetic pools, which affects the imprint let by macroevolution on local species pools. In this article we introduce an individual-based simulation approach coupled to Approximate Bayesian Computation (ABC) that allows to parameterize the adaptation rate of species’ niche positions along the evolution of a monophyletic lineage, and the intensity of dispersal limitation, associated with the distribution of biological diversity between assemblages potentially connected by dispersal (metacommunity). The analytical tool was implemented in an R package called mcfly. We evaluated the statistical performance of the analytical framework using simulated datasets, which confirmed the suitability of the analysis to estimate adaptation rate and dispersal limitation parameters. Further, we evaluated the role played by niche evolution and dispersal limitation on species diversity distribution of Phyllostomidae bats across the Neotropics. The framework proposed here shed light on the links between niche evolution, dispersal limitation and the distribution of biological diversity, and thereby improved our understanding of evolutionary imprints on ecological patterns. Perhaps more importantly, it offers new possibilities for solving the eco-evolutionary puzzle.</p>
+<p>Historical processes like speciation, extinction and historical dispersal are the ultimate factors generating and maintaining biodiversity. Therefore, understanding how these factors affect the distribution of biodiversity is of great importance. To do so, it is necessary to integrate information from ancestral state reconstructions and current species distribution data and traits. Studies that integrated both information proved effective in unveiling questions in the intersection of macroecology, macroevolution, and community ecology. However, up to now, numerical methods that perform this integration are scattered, making integration difficult and hampering advances in these research fields. Here we developed Herodotools, an R package that integrates the macroevolutionary models with the distribution of species occurrence in assemblages to provide metrics that represent historical information, such as in-situ diversification, historical dispersal, and age of assemblages. We described the main functions and illustrated the use of our new package by analyzing the historical biogeography of the genus Akodon, a South American small rodent. Our package provides the first platform to investigate questions that require the integration of macroevolutionary information with ecological data (as species occurrence) and streamline analysis of historical biogeography, leveraging the investigation of the effects of historical processes in different levels of organization, from local assemblages to bioregions.</p>
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2021.12.11.472171v2.full" target="_blank" rel="noopener">Read more -&gt;</a></p>
+<a href="https://ecoevorxiv.org/2f6uk/" target="_blank" rel="noopener">Read more -&gt;</a></p>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">July 1, 2021</dd>
+    <dd class="fw5 ml0">July 5, 2022</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 204 words</dd>
+    <dd class="fw5 ml0">1 minute read, 206 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="/categories/ecoevolutionary-dynamics">Ecoevolutionary dynamics</a>  <a href="/categories/community-ecology">Community ecology</a>  <a href="/categories/community-phylogenetics">Community phylogenetics</a> </dd>
+    <dd class="fw5 ml0"> <a href="/categories/historical-biogeography">Historical biogeography</a>  <a href="/categories/methods">Methods</a>  <a href="/categories/r-packages">R packages</a> </dd>
   </dl>
   
   
@@ -154,13 +154,10 @@
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="/publication/nakamura-etal-fishphylomaker_ecolinformatics/">&larr; FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes</a>
-  
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="/publication/dijk-etal-bioljsociety-2021/">Imprints on tropical niche conservatism and historical dispersal in the radiation of Tyrannidae (Aves: Passeriformes) &rarr;</a>
+    href="/publication/carvalho-etal-forests-2022/">Detecting Darwinian shortfalls in the Amazonian Odonata &rarr;</a>
   
 </div>
 
@@ -188,7 +185,7 @@
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
   <nav class="db dt-l w-100">
     <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
-      &copy; 2021 RStudio, Anywhere
+      &copy; 2023 RStudio, Anywhere
       <span class="middot-divider"></span>
       Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
       <br />

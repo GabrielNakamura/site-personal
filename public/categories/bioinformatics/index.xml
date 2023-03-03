@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics on Gabriel Nakamura</title>
+    <link>/categories/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Species misidentification affects biodiversity metrics: Dealing with this issue using the new R package naturaList</title>
+      <link>/publication/rodrigues-etal-ecolinfo-2022/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rodrigues-etal-ecolinfo-2022/</guid>
+      <description>Abstract   Biodiversity databases are increasingly available and have fostered accelerated advances in many disciplines within ecology and evolution. However, the quality of the evidence generated depends critically on the quality of the input data, and species misidentifications are present in virtually any occurrence dataset. Yet, the lack of automatized tools makes the assessment of the quality of species identification in big datasets time-consuming, which often induces researchers to assume that all species are reliably identified.</description>
+    </item>
+    
+  </channel>
+</rss>

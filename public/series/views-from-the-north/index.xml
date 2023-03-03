@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Views from the North on Gabriel Nakamura</title>
+    <link>/series/views-from-the-north/</link>
+    <description>Recent content in Views from the North on Gabriel Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/views-from-the-north/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecological Society of America meeting - 2022</title>
+      <link>/blog/chronicles/esa2022/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/chronicles/esa2022/</guid>
+      <description>Personal views on my first Ecological Society of America meeting Last week (14-19th August), I attended my first ever Ecological Society of America (ESA) meeting. If you are an ecologist/evolutionary biologist, the ESA meeting is one of those “must-attend” events. It is the venue where researchers share their studies and is also an opportunity to connect with people from different places (unfortunately, not all places, but I will talk more about it later).</description>
+    </item>
+    
+    <item>
+      <title>More than words</title>
+      <link>/blog/chronicles/01-foreinglife/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/chronicles/01-foreinglife/</guid>
+      <description>Departure Three weeks ago from the moment that I’m writing this chronicle I made one of the toughest decisions of my life, which was moving to another country. I landed in the United States to start a new job. This represented to me an opportunity that I haven’t had during my Ph.D. in Brazil due to the cut of budgets promoted by the Federal government. After almost 10 presentation letters, I was called for an interview at Texas A&amp;amp;M University-Corpus Christi.</description>
+    </item>
+    
+    <item>
+      <title>Views from the north</title>
+      <link>/blog/chronicles/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/chronicles/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,16 @@
     <link>/series/</link>
     <description>Recent content in Series on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Views from the North</title>
+      <link>/series/views-from-the-north/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/views-from-the-north/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

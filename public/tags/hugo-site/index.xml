@@ -6,7 +6,18 @@
     <description>Recent content in hugo-site on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herodotools</title>
+      <link>/project/herodotools/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/herodotools/</guid>
+      <description>Herodotools   Herodotools    
+ 
+General overview   {Herodotools} is an R package that allows to perform analysis to investigate the effects of historical processes, specifically diversification and historical dispersal, in determine the biodiversity structure of assemblages and biogeographical regions. This is achieved by integrating tools of macroevolutionary dynamics (e.g. ancestral area reconstruction, trait reconstruction) with metrics commonly used in community phylogenetics, and also by providing new metrics that integrate the macroevolutionary dynamics in assemblage or biogeographical scales.</description>
+    </item>
+    
     <item>
       <title>FishPhyloMaker</title>
       <link>/project/fishphylomaker/</link>
