@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /blog/
 description: |
-  This is a list for talks, workshops and courses that I gave.
+  This is a list of blog texts I've been writing.
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
@@ -19,7 +19,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Gabriel Nakamura
-  description: ""
+  description: "Here you're gonna find some 'talk out loud' kind of thoughts"
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: /blog/index.xml

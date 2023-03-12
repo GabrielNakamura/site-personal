@@ -19,7 +19,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Gabriel Nakamura
-  description: ""
+  description: "Here you will find some talks, slides and materials. Feel free to reuse them"
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: /talk/index.xml
