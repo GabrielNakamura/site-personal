@@ -120,6 +120,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Invited Lecture for inaugural class to graduate program in Animal Biodiversity at UFSM (Portuguese)</title>
+      <link>/talk/talk_ufsm/</link>
+      <pubDate>Tue, 07 Mar 2023 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/talk_ufsm/</guid>
+      <description>Contando Histórias em ecologia: um olhar para o passado para compreender a biodiversidade     Resumo     Uma das magias no ato de contar histórias é que elas nos transportam para lugares onde nunca pudemos estar presencialmente. Pode ser a história que a vó contava, as histórias dos filmes sobre volta para o passado, visitar outras eras como o Dr. Who. O ponto é que entender o passado e como ele afeta nossas vidas (e a vida de outros) nos fascina.</description>
+    </item>
+    
+    <item>
       <title>Herodotools</title>
       <link>/project/herodotools/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>

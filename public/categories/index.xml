@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 14:15:59 -0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>outreach</title>
+      <link>/categories/outreach/</link>
+      <pubDate>Tue, 07 Mar 2023 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/outreach/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Historical biogeography</title>
       <link>/categories/historical-biogeography/</link>
@@ -76,15 +85,6 @@
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/bioinformatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>/categories/outreach/</link>
-      <pubDate>Mon, 07 Mar 2022 14:15:59 -0600</pubDate>
-      
-      <guid>/categories/outreach/</guid>
       <description></description>
     </item>
     
