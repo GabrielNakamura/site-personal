@@ -6,7 +6,17 @@
     <description>Recent content in Talks, workshops and courses on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Mar 2023 14:15:59 -0600</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 14:15:59 -0600</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boas Práticas e Ferramentas da Ciência Aberta na Ecologia</title>
+      <link>/talk/curso-reproduti-usp-2023/</link>
+      <pubDate>Sun, 06 Aug 2023 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/curso-reproduti-usp-2023/</guid>
+      <description>Este curso foi ministrado no mês de Agosto de 2023 no PPG Ecologia USP, por mim (Gabriel) e Melina Leite. Esta foi a segunda edição completa de um curso que ministrei pela primeira vez em 2021, durante a pandemia, no PPG Ecologia da UFRGS.
+Esta foi uma versão atualizada da disciplina dada em 2021. Junto com a Melina Leite conseguimos colocar junto os conceitos e as ferramentas computacionais utilizadas para realização de projetos científicos que sigam os princípios da ciência aberta.</description>
+    </item>
+    
     <item>
       <title>Invited Lecture for inaugural class to graduate program in Animal Biodiversity at UFSM (Portuguese)</title>
       <link>/talk/talk_ufsm/</link>

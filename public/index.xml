@@ -6,7 +6,7 @@
     <description>Recent content on Gabriel Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 14:15:59 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comments on Balter&#39;s news</title>
       <link>/blog/balter_jetz/</link>
@@ -127,6 +127,25 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Boas Práticas e Ferramentas da Ciência Aberta na Ecologia</title>
+      <link>/talk/curso-reproduti-usp-2023/</link>
+      <pubDate>Sun, 06 Aug 2023 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/curso-reproduti-usp-2023/</guid>
+      <description>Este curso foi ministrado no mês de Agosto de 2023 no PPG Ecologia USP, por mim (Gabriel) e Melina Leite. Esta foi a segunda edição completa de um curso que ministrei pela primeira vez em 2021, durante a pandemia, no PPG Ecologia da UFRGS.
+Esta foi uma versão atualizada da disciplina dada em 2021. Junto com a Melina Leite conseguimos colocar junto os conceitos e as ferramentas computacionais utilizadas para realização de projetos científicos que sigam os princípios da ciência aberta.</description>
+    </item>
+    
+    <item>
+      <title>Quantifying and overcoming Darwinian shortfalls to conserve the fish tree of life</title>
+      <link>/publication/soares-etal-biolcons-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/soares-etal-biolcons-2023/</guid>
+      <description>Abstract   Knowledge shortfalls of the evolutionary history of bony fishes hamper phylogenetically informed conservation approaches. To direct future research efforts and phylogenetically based conservation actions, we calculated Darwinian shortfalls for taxonomic clades (genus, family and order-level) and countries, as well as derived a phylogenetic based prioritization metric for bony fishes. We built a synthesis phylogeny for 32,870 bony fishes using a global backbone phylogeny and inserting absent species by their taxonomic hierarchies (supertree approach).</description>
     </item>
     
     <item>
