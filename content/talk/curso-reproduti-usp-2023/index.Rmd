@@ -1,0 +1,44 @@
+---
+author: Gabriel Nakamura
+categories:
+- course
+date: "2023-08-06T14:15:59-06:00"
+date_end: "2023-08-11T14:45:59-06:00"
+draft: false
+excerpt: ""
+layout: single
+links:
+- icon: door-open
+  icon_pack: fas
+  name: apostila curso
+  url: "https://gabrielnakamura.github.io/USP_reproducibility_BIE5798/"
+- icon: github
+  icon_pack: fab
+  name: códigos 
+  url: https://github.com/GabrielNakamura/USP_reproducibility_BIE5798
+location: Universidade de São Paulo, Brasil
+show_post_time: false
+subtitle: ""
+title: Boas Práticas e Ferramentas da Ciência Aberta na Ecologia
+output: github_document
+---
+
+Este curso foi ministrado no mês de Agosto de 2023 no PPG Ecologia USP, por mim (Gabriel) e [Melina Leite](https://melinaleite.weebly.com/). Esta foi a segunda edição completa de um curso que ministrei pela primeira vez em 2021, durante a pandemia, no PPG Ecologia da UFRGS. 
+
+Um pouquinho da história de como essa disciplina foi concebida. Eu ainda estava morando nos EUA, trabalhando como posdoc na Texas A&M University. Meu contrato era 100% pesquisa, e as (poucas) aulas que dava para a graduação e pós eram basicamente para quebrar um galho quando meu supervisor não podia estar presente. Um ano antes eu havia trabalhado de professor substituto na Universidade Federal do Ceará, e uma vez que você ouve aquele "Huuum... agora entendi" dos estudantes, ficar sem isso faz falta. Sem querer cair na romantização do trabalho nada valorizado dos professores e professoras no Brasil, mas o ensino me ajuda ver sentido no trabalho que faço. 
+
+No meio de 2022 eu assisti uma ótima palestra da [Melina](https://www.youtube.com/watch?v=5OLUxXQ7gqw&t=1116s), e aí veio a ideia: Por que não fazer uma nova edição da disciplina? Taí abaixo a prova
+
+```{r, echo=FALSE, eval=TRUE, out.width="70%"}
+knitr::include_graphics(here::here("content", "talk", "curso-reproduti-usp-2023", "palestra-melina.png"))
+```
+
+Entrei em contato com a Melina, e por minha sorte ela tinha a mesma animação e vontade de oferecer uma disciplina sobre reprodutibilidade, e mais... sobre ciência aberta. 
+
+Passamos a nos reunir uma vez ou outra para discutir como essa disciplina seria. Minha visão sobre reprodutibilidade em uma disciplina era extremamente restrita, pensava no tema como sendo sinônimo de reprodutibilidade computacional. A Melina veio então para ampliar essa visão e incluir toda a parte conceitual/filosófica do tema, fazendo com que, depois de algum tempo amadurecendo a ideia decidimos dar o nome dessa disciplina como "**Boas práticas e ferramentas da ciência aberta na Ecologia
+**"
+
+Costumamos dizer que entre a ideia e a execução existe uma distância bem grande. E no nosso caso essa distância era literalmente continental. Eu tinha um contrato de três anos na Texas A&M, mas por vários motivos que não cabem aqui, resolvi voltar para o Brasil.
+E nessa hora é difícil evitar a efetividade do cliché, mas as vezes algumas coisas indesejadas acontecem e com elas vem coisas boas. Voltei pro Brasil, a ideia do curso amadureceu, mandamos a proposta para o PPG Ecologia da USP e ela foi aprovada. Tudo isso só foi possível graças ao esforço da Melina e o apoio do professor Paulo Inácio, na época coordenador do ppg Ecologia da USP. 
+
+Finalmente a disciplina aconteceu durante os dias 06-11 de Agosto, na USP em São Paulo. Foi uma semana cheia de aprendizados, novos amigos, bons papos e tudo mais! Espero que possamos realizar outras edições deste curso em breve.
